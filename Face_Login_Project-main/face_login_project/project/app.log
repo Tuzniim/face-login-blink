@@ -1,0 +1,801 @@
+2026-03-24 15:29:01,521 [ERROR] __main__ - ขาด module: face_recognition, cv2, dlib, numpy, scipy, supabase, imutils
+2026-03-24 17:53:33,319 [ERROR] __main__ - ขาด module: face_recognition, dlib, scipy, supabase, imutils
+2026-03-24 18:03:02,795 [INFO] __main__ - ✅ ตรวจสอบ requirements ผ่าน
+2026-03-24 18:03:02,795 [INFO] __main__ - ทดสอบการเชื่อมต่อ Supabase...
+2026-03-24 18:03:02,807 [ERROR] database.db_connect - เชื่อมต่อ Supabase ล้มเหลว: Invalid API key
+2026-03-24 18:03:02,807 [ERROR] database.db_connect - ทดสอบการเชื่อมต่อล้มเหลว: Invalid API key
+2026-03-24 18:03:02,807 [WARNING] __main__ - ⚠️  Supabase connection ล้มเหลว - ตรวจสอบ config.py
+2026-03-24 18:03:02,807 [INFO] __main__ - เริ่มต้น GUI...
+2026-03-24 18:03:06,239 [ERROR] database.db_connect - เชื่อมต่อ Supabase ล้มเหลว: Invalid API key
+2026-03-24 18:03:06,239 [ERROR] database.log_model - ดึง logs ล้มเหลว: Invalid API key
+2026-03-24 18:09:11,550 [INFO] __main__ - ✅ ตรวจสอบ requirements ผ่าน
+2026-03-24 18:09:11,550 [INFO] __main__ - ทดสอบการเชื่อมต่อ Supabase...
+2026-03-24 18:09:11,552 [ERROR] database.db_connect - เชื่อมต่อ Supabase ล้มเหลว: Invalid API key
+2026-03-24 18:09:11,553 [ERROR] database.db_connect - ทดสอบการเชื่อมต่อล้มเหลว: Invalid API key
+2026-03-24 18:09:11,553 [WARNING] __main__ - ⚠️  Supabase connection ล้มเหลว - ตรวจสอบ config.py
+2026-03-24 18:09:11,553 [INFO] __main__ - เริ่มต้น GUI...
+2026-03-24 18:09:12,404 [ERROR] database.db_connect - เชื่อมต่อ Supabase ล้มเหลว: Invalid API key
+2026-03-24 18:09:12,404 [ERROR] database.log_model - ดึง logs ล้มเหลว: Invalid API key
+2026-03-24 18:18:08,046 [INFO] __main__ - ✅ ตรวจสอบ requirements ผ่าน
+2026-03-24 18:18:08,046 [INFO] __main__ - ทดสอบการเชื่อมต่อ Supabase...
+2026-03-24 18:18:08,046 [ERROR] database.db_connect - เชื่อมต่อ Supabase ล้มเหลว: Client.__init__() got an unexpected keyword argument 'proxy'
+2026-03-24 18:18:08,046 [ERROR] database.db_connect - ทดสอบการเชื่อมต่อล้มเหลว: Client.__init__() got an unexpected keyword argument 'proxy'
+2026-03-24 18:18:08,046 [WARNING] __main__ - ⚠️  Supabase connection ล้มเหลว - ตรวจสอบ config.py
+2026-03-24 18:18:08,049 [INFO] __main__ - เริ่มต้น GUI...
+2026-03-24 18:18:08,898 [ERROR] database.db_connect - เชื่อมต่อ Supabase ล้มเหลว: Client.__init__() got an unexpected keyword argument 'proxy'
+2026-03-24 18:18:08,898 [ERROR] database.log_model - ดึง logs ล้มเหลว: Client.__init__() got an unexpected keyword argument 'proxy'
+2026-03-24 18:27:17,485 [INFO] __main__ - ✅ ตรวจสอบ requirements ผ่าน
+2026-03-24 18:27:17,485 [INFO] __main__ - ทดสอบการเชื่อมต่อ Supabase...
+2026-03-24 18:27:17,485 [ERROR] database.db_connect - เชื่อมต่อ Supabase ล้มเหลว: Client.__init__() got an unexpected keyword argument 'proxy'
+2026-03-24 18:27:17,488 [ERROR] database.db_connect - ทดสอบการเชื่อมต่อล้มเหลว: Client.__init__() got an unexpected keyword argument 'proxy'
+2026-03-24 18:27:17,488 [WARNING] __main__ - ⚠️  Supabase connection ล้มเหลว - ตรวจสอบ config.py
+2026-03-24 18:27:17,488 [INFO] __main__ - เริ่มต้น GUI...
+2026-03-24 18:27:18,343 [ERROR] database.db_connect - เชื่อมต่อ Supabase ล้มเหลว: Client.__init__() got an unexpected keyword argument 'proxy'
+2026-03-24 18:27:18,345 [ERROR] database.log_model - ดึง logs ล้มเหลว: Client.__init__() got an unexpected keyword argument 'proxy'
+2026-03-24 18:28:42,317 [INFO] __main__ - ✅ ตรวจสอบ requirements ผ่าน
+2026-03-24 18:28:42,317 [INFO] __main__ - ทดสอบการเชื่อมต่อ Supabase...
+2026-03-24 18:28:42,361 [INFO] database.db_connect - เชื่อมต่อ Supabase สำเร็จ
+2026-03-24 18:28:42,811 [ERROR] database.db_connect - ทดสอบการเชื่อมต่อล้มเหลว: {'message': 'Invalid API key', 'hint': 'Double check your Supabase `anon` or `service_role` API key.'}
+2026-03-24 18:28:42,813 [WARNING] __main__ - ⚠️  Supabase connection ล้มเหลว - ตรวจสอบ config.py
+2026-03-24 18:28:42,813 [INFO] __main__ - เริ่มต้น GUI...
+2026-03-24 18:28:43,702 [ERROR] database.log_model - ดึง logs ล้มเหลว: {'message': 'Invalid API key', 'hint': 'Double check your Supabase `anon` or `service_role` API key.'}
+2026-03-24 18:35:46,970 [INFO] __main__ - ✅ ตรวจสอบ requirements ผ่าน
+2026-03-24 18:35:46,970 [INFO] __main__ - ทดสอบการเชื่อมต่อ Supabase...
+2026-03-24 18:35:47,001 [INFO] database.db_connect - เชื่อมต่อ Supabase สำเร็จ
+2026-03-24 18:35:47,417 [ERROR] database.db_connect - ทดสอบการเชื่อมต่อล้มเหลว: {'message': 'Invalid API key', 'hint': 'Double check your Supabase `anon` or `service_role` API key.'}
+2026-03-24 18:35:47,417 [WARNING] __main__ - ⚠️  Supabase connection ล้มเหลว - ตรวจสอบ config.py
+2026-03-24 18:35:47,417 [INFO] __main__ - เริ่มต้น GUI...
+2026-03-24 18:35:48,295 [ERROR] database.log_model - ดึง logs ล้มเหลว: {'message': 'Invalid API key', 'hint': 'Double check your Supabase `anon` or `service_role` API key.'}
+2026-03-24 18:43:21,249 [INFO] __main__ - ✅ ตรวจสอบ requirements ผ่าน
+2026-03-24 18:43:21,251 [INFO] __main__ - ทดสอบการเชื่อมต่อ Supabase...
+2026-03-24 18:43:21,281 [INFO] database.db_connect - เชื่อมต่อ Supabase สำเร็จ
+2026-03-24 18:43:21,699 [ERROR] database.db_connect - ทดสอบการเชื่อมต่อล้มเหลว: {'message': 'Invalid API key', 'hint': 'Double check your Supabase `anon` or `service_role` API key.'}
+2026-03-24 18:43:21,699 [WARNING] __main__ - ⚠️  Supabase connection ล้มเหลว - ตรวจสอบ config.py
+2026-03-24 18:43:21,699 [INFO] __main__ - เริ่มต้น GUI...
+2026-03-24 18:43:22,620 [ERROR] database.log_model - ดึง logs ล้มเหลว: {'message': 'Invalid API key', 'hint': 'Double check your Supabase `anon` or `service_role` API key.'}
+2026-03-24 18:48:33,446 [INFO] __main__ - ✅ ตรวจสอบ requirements ผ่าน
+2026-03-24 18:48:33,450 [INFO] __main__ - ทดสอบการเชื่อมต่อ Supabase...
+2026-03-24 18:48:33,479 [INFO] database.db_connect - เชื่อมต่อ Supabase สำเร็จ
+2026-03-24 18:48:34,631 [INFO] database.db_connect - ทดสอบการเชื่อมต่อสำเร็จ
+2026-03-24 18:48:34,631 [INFO] __main__ - เริ่มต้น GUI...
+2026-03-24 18:49:08,205 [ERROR] database.user_model - ดึงข้อมูล user ล้มเหลว: {'code': 'PGRST116', 'details': 'The result contains 0 rows', 'hint': None, 'message': 'Cannot coerce the result to a single JSON object'}
+2026-03-24 18:49:08,206 [INFO] services.register_service - เริ่มถ่ายรูปสำหรับ neem
+2026-03-24 18:49:13,295 [INFO] services.register_service - เริ่มถ่ายรูปสำหรับ 'neem' (กด SPACE เพื่อถ่าย, ESC เพื่อยกเลิก)
+2026-03-24 18:50:03,319 [INFO] services.train_service - Train เสร็จสิ้น: 0/0 สำเร็จ
+2026-03-24 18:56:09,919 [INFO] __main__ - ✅ ตรวจสอบ requirements ผ่าน
+2026-03-24 18:56:09,919 [INFO] __main__ - ทดสอบการเชื่อมต่อ Supabase...
+2026-03-24 18:56:09,949 [INFO] database.db_connect - เชื่อมต่อ Supabase สำเร็จ
+2026-03-24 18:56:10,662 [INFO] database.db_connect - ทดสอบการเชื่อมต่อสำเร็จ
+2026-03-24 18:56:10,663 [INFO] __main__ - เริ่มต้น GUI...
+2026-03-24 18:56:52,394 [ERROR] database.user_model - ดึงข้อมูล user ล้มเหลว: {'code': 'PGRST116', 'details': 'The result contains 0 rows', 'hint': None, 'message': 'Cannot coerce the result to a single JSON object'}
+2026-03-24 18:56:52,396 [INFO] services.register_service - เริ่มถ่ายรูปสำหรับ ืneem
+2026-03-24 18:56:57,449 [INFO] services.register_service - เริ่มถ่ายรูปสำหรับ 'ืneem' (กด SPACE เพื่อถ่าย, ESC เพื่อยกเลิก)
+2026-03-24 18:57:05,083 [INFO] services.register_service - บันทึกรูป: dataset\ืneem\ืneem_1.jpg
+2026-03-24 18:57:09,771 [INFO] services.register_service - บันทึกรูป: dataset\ืneem\ืneem_2.jpg
+2026-03-24 18:57:11,037 [INFO] services.register_service - บันทึกรูป: dataset\ืneem\ืneem_3.jpg
+2026-03-24 18:57:13,836 [INFO] services.register_service - บันทึกรูป: dataset\ืneem\ืneem_4.jpg
+2026-03-24 18:57:15,579 [INFO] services.register_service - บันทึกรูป: dataset\ืneem\ืneem_5.jpg
+2026-03-24 18:57:15,599 [WARNING] core.encoding - ไม่มี encoding สำหรับ ืneem
+2026-03-24 18:57:57,175 [ERROR] database.user_model - ดึงข้อมูล user ล้มเหลว: {'code': 'PGRST116', 'details': 'The result contains 0 rows', 'hint': None, 'message': 'Cannot coerce the result to a single JSON object'}
+2026-03-24 18:57:57,175 [INFO] services.register_service - เริ่มถ่ายรูปสำหรับ neem
+2026-03-24 18:58:03,738 [INFO] services.register_service - เริ่มถ่ายรูปสำหรับ 'neem' (กด SPACE เพื่อถ่าย, ESC เพื่อยกเลิก)
+2026-03-24 18:58:16,339 [INFO] services.register_service - บันทึกรูป: dataset\neem\neem_1.jpg
+2026-03-24 18:58:21,118 [INFO] services.register_service - บันทึกรูป: dataset\neem\neem_2.jpg
+2026-03-24 18:58:22,499 [INFO] services.register_service - บันทึกรูป: dataset\neem\neem_3.jpg
+2026-03-24 18:58:23,491 [INFO] services.register_service - บันทึกรูป: dataset\neem\neem_4.jpg
+2026-03-24 18:58:25,828 [INFO] services.register_service - บันทึกรูป: dataset\neem\neem_5.jpg
+2026-03-24 18:58:26,586 [INFO] core.encoding - Encode รูป dataset\neem\neem_1.jpg สำเร็จ
+2026-03-24 18:58:27,202 [INFO] core.encoding - Encode รูป dataset\neem\neem_2.jpg สำเร็จ
+2026-03-24 18:58:27,739 [INFO] core.encoding - Encode รูป dataset\neem\neem_3.jpg สำเร็จ
+2026-03-24 18:58:28,279 [INFO] core.encoding - Encode รูป dataset\neem\neem_4.jpg สำเร็จ
+2026-03-24 18:58:28,807 [INFO] core.encoding - Encode รูป dataset\neem\neem_5.jpg สำเร็จ
+2026-03-24 18:58:28,810 [INFO] core.encoding - Encode neem ได้ 5 รูป
+2026-03-24 18:58:29,066 [INFO] database.user_model - สร้าง user 'neem' สำเร็จ
+2026-03-24 18:58:29,067 [INFO] services.register_service - ลงทะเบียน 'neem' สำเร็จ
+2026-03-24 18:58:49,901 [INFO] services.login_service - กำลังโหลดข้อมูลใบหน้า...
+2026-03-24 18:58:55,096 [INFO] services.login_service - กรุณากระพริบตา 2 ครั้ง เพื่อยืนยันตัวตน...
+2026-03-24 18:58:55,097 [INFO] core.blink_detection - รอการกระพริบตา 2 ครั้ง (timeout: 10s)
+2026-03-24 18:58:56,405 [INFO] core.blink_detection - โหลด shape predictor สำเร็จ
+2026-03-24 18:58:59,267 [INFO] core.blink_detection - ตรวจพบกระพริบตา #1 (EAR: 0.329)
+2026-03-24 18:58:59,660 [INFO] services.login_service - กำลังโหลดข้อมูลใบหน้า...
+2026-03-24 18:59:00,150 [INFO] core.blink_detection - ตรวจพบกระพริบตา #2 (EAR: 0.269)
+2026-03-24 18:59:00,150 [INFO] core.blink_detection - กระพริบตาครบ 2 ครั้ง ✓
+2026-03-24 18:59:00,150 [INFO] services.login_service - ผ่านการตรวจ Anti-Spoofing ✓ กำลังจดจำใบหน้า...
+2026-03-24 18:59:01,080 [INFO] services.login_service - กำลังเปรียบเทียบใบหน้า...
+2026-03-24 18:59:01,080 [INFO] core.face_recognition_core - Face comparison: match=True, distance=0.2912
+2026-03-24 18:59:01,444 [INFO] database.log_model - บันทึก log: user=neem, status=success
+2026-03-24 18:59:04,997 [INFO] services.login_service - กรุณากระพริบตา 2 ครั้ง เพื่อยืนยันตัวตน...
+2026-03-24 18:59:05,566 [INFO] core.blink_detection - รอการกระพริบตา 2 ครั้ง (timeout: 10s)
+2026-03-24 18:59:06,569 [INFO] core.blink_detection - ตรวจพบกระพริบตา #1 (EAR: 0.356)
+2026-03-24 18:59:07,147 [INFO] core.blink_detection - ตรวจพบกระพริบตา #2 (EAR: 0.309)
+2026-03-24 18:59:07,149 [INFO] core.blink_detection - กระพริบตาครบ 2 ครั้ง ✓
+2026-03-24 18:59:07,149 [INFO] services.login_service - ผ่านการตรวจ Anti-Spoofing ✓ กำลังจดจำใบหน้า...
+2026-03-24 18:59:07,875 [INFO] services.login_service - กำลังเปรียบเทียบใบหน้า...
+2026-03-24 18:59:07,876 [INFO] core.face_recognition_core - Face comparison: match=True, distance=0.3636
+2026-03-24 18:59:08,279 [INFO] database.log_model - บันทึก log: user=neem, status=success
+2026-03-24 18:59:17,835 [INFO] services.login_service - กำลังโหลดข้อมูลใบหน้า...
+2026-03-24 18:59:22,946 [INFO] services.login_service - กรุณากระพริบตา 2 ครั้ง เพื่อยืนยันตัวตน...
+2026-03-24 18:59:22,946 [INFO] core.blink_detection - รอการกระพริบตา 2 ครั้ง (timeout: 10s)
+2026-03-24 18:59:25,390 [INFO] core.blink_detection - ตรวจพบกระพริบตา #1 (EAR: 0.282)
+2026-03-24 18:59:28,047 [INFO] core.blink_detection - ตรวจพบกระพริบตา #2 (EAR: 0.255)
+2026-03-24 18:59:28,048 [INFO] core.blink_detection - กระพริบตาครบ 2 ครั้ง ✓
+2026-03-24 18:59:28,048 [INFO] services.login_service - ผ่านการตรวจ Anti-Spoofing ✓ กำลังจดจำใบหน้า...
+2026-03-24 18:59:28,947 [INFO] services.login_service - กำลังเปรียบเทียบใบหน้า...
+2026-03-24 18:59:28,948 [INFO] core.face_recognition_core - Face comparison: match=True, distance=0.3201
+2026-03-24 18:59:29,318 [INFO] database.log_model - บันทึก log: user=neem, status=success
+2026-03-24 19:00:07,522 [INFO] services.login_service - กำลังโหลดข้อมูลใบหน้า...
+2026-03-24 19:00:13,111 [INFO] services.login_service - กรุณากระพริบตา 2 ครั้ง เพื่อยืนยันตัวตน...
+2026-03-24 19:00:13,114 [INFO] core.blink_detection - รอการกระพริบตา 2 ครั้ง (timeout: 10s)
+2026-03-24 19:00:13,881 [INFO] core.blink_detection - ตรวจพบกระพริบตา #1 (EAR: 0.253)
+2026-03-24 19:00:14,151 [INFO] core.blink_detection - ตรวจพบกระพริบตา #2 (EAR: 0.252)
+2026-03-24 19:00:14,151 [INFO] core.blink_detection - กระพริบตาครบ 2 ครั้ง ✓
+2026-03-24 19:00:14,151 [INFO] services.login_service - ผ่านการตรวจ Anti-Spoofing ✓ กำลังจดจำใบหน้า...
+2026-03-24 19:00:15,051 [INFO] services.login_service - กำลังเปรียบเทียบใบหน้า...
+2026-03-24 19:00:15,052 [INFO] core.face_recognition_core - Face comparison: match=True, distance=0.4370
+2026-03-24 19:00:15,419 [INFO] database.log_model - บันทึก log: user=neem, status=success
+2026-03-24 19:13:59,197 [INFO] __main__ - ✅ ตรวจสอบ requirements ผ่าน
+2026-03-24 19:13:59,197 [INFO] __main__ - ทดสอบการเชื่อมต่อ Supabase...
+2026-03-24 19:13:59,226 [INFO] database.db_connect - เชื่อมต่อ Supabase สำเร็จ
+2026-03-24 19:14:00,043 [INFO] database.db_connect - ทดสอบการเชื่อมต่อสำเร็จ
+2026-03-24 19:14:00,043 [INFO] __main__ - เริ่มต้น GUI...
+2026-03-24 19:23:03,398 [INFO] __main__ - ✅ ตรวจสอบ requirements ผ่าน
+2026-03-24 19:23:03,398 [INFO] __main__ - ทดสอบการเชื่อมต่อ Supabase...
+2026-03-24 19:23:03,426 [INFO] database.db_connect - เชื่อมต่อ Supabase สำเร็จ
+2026-03-24 19:23:04,224 [INFO] database.db_connect - ทดสอบการเชื่อมต่อสำเร็จ
+2026-03-24 19:23:04,224 [INFO] __main__ - เริ่มต้น GUI...
+2026-03-24 19:23:15,082 [INFO] services.login_service - กำลังโหลดข้อมูลใบหน้า...
+2026-03-24 19:23:20,214 [INFO] services.login_service - กรุณากระพริบตา 2 ครั้ง เพื่อยืนยันตัวตน...
+2026-03-24 19:23:20,214 [INFO] core.blink_detection - รอการกระพริบตา 2 ครั้ง (timeout: 10s)
+2026-03-24 19:23:21,487 [INFO] core.blink_detection - โหลด shape predictor สำเร็จ
+2026-03-24 19:23:30,227 [WARNING] core.blink_detection - Blink detection timeout
+2026-03-24 19:23:30,728 [INFO] database.log_model - บันทึก log: user=None, status=spoof_detected
+2026-03-24 19:24:45,325 [INFO] services.login_service - กำลังโหลดข้อมูลใบหน้า...
+2026-03-24 19:24:50,473 [INFO] services.login_service - กรุณากระพริบตา 2 ครั้ง เพื่อยืนยันตัวตน...
+2026-03-24 19:24:50,473 [INFO] core.blink_detection - รอการกระพริบตา 2 ครั้ง (timeout: 10s)
+2026-03-24 19:25:00,482 [WARNING] core.blink_detection - Blink detection timeout
+2026-03-24 19:25:00,968 [INFO] database.log_model - บันทึก log: user=None, status=spoof_detected
+2026-03-24 19:26:00,228 [INFO] __main__ - ✅ ตรวจสอบ requirements ผ่าน
+2026-03-24 19:26:00,229 [INFO] __main__ - ทดสอบการเชื่อมต่อ Supabase...
+2026-03-24 19:26:00,260 [INFO] database.db_connect - เชื่อมต่อ Supabase สำเร็จ
+2026-03-24 19:26:00,680 [INFO] database.db_connect - ทดสอบการเชื่อมต่อสำเร็จ
+2026-03-24 19:26:00,680 [INFO] __main__ - เริ่มต้น GUI...
+2026-03-24 19:26:10,283 [INFO] services.login_service - กำลังโหลดข้อมูลใบหน้า...
+2026-03-24 19:26:15,432 [INFO] services.login_service - กรุณากระพริบตา 2 ครั้ง เพื่อยืนยันตัวตน...
+2026-03-24 19:26:15,432 [INFO] core.blink_detection - รอการกระพริบตา 2 ครั้ง (timeout: 10s)
+2026-03-24 19:26:16,700 [INFO] core.blink_detection - โหลด shape predictor สำเร็จ
+2026-03-24 19:26:17,878 [INFO] core.blink_detection - ตรวจพบกระพริบตา #1 (EAR: 0.300)
+2026-03-24 19:26:18,807 [INFO] core.blink_detection - ตรวจพบกระพริบตา #2 (EAR: 0.320)
+2026-03-24 19:26:18,809 [INFO] core.blink_detection - กระพริบตาครบ 2 ครั้ง ✓
+2026-03-24 19:26:18,809 [INFO] services.login_service - ผ่านการตรวจ Anti-Spoofing ✓ กำลังจดจำใบหน้า...
+2026-03-24 19:26:19,707 [INFO] services.login_service - กำลังเปรียบเทียบใบหน้า...
+2026-03-24 19:26:19,707 [INFO] core.face_recognition_core - Face comparison: match=True, distance=0.2979
+2026-03-24 19:26:20,111 [INFO] database.log_model - บันทึก log: user=neem, status=success
+2026-03-24 19:29:55,947 [INFO] __main__ - ✅ ตรวจสอบ requirements ผ่าน
+2026-03-24 19:29:55,948 [INFO] __main__ - ทดสอบการเชื่อมต่อ Supabase...
+2026-03-24 19:29:55,978 [INFO] database.db_connect - เชื่อมต่อ Supabase สำเร็จ
+2026-03-24 19:29:56,756 [INFO] database.db_connect - ทดสอบการเชื่อมต่อสำเร็จ
+2026-03-24 19:29:56,757 [INFO] __main__ - เริ่มต้น GUI...
+2026-03-24 19:31:56,153 [INFO] __main__ - ✅ ตรวจสอบ requirements ผ่าน
+2026-03-24 19:31:56,153 [INFO] __main__ - ทดสอบการเชื่อมต่อ Supabase...
+2026-03-24 19:31:56,182 [INFO] database.db_connect - เชื่อมต่อ Supabase สำเร็จ
+2026-03-24 19:31:56,485 [INFO] database.db_connect - ทดสอบการเชื่อมต่อสำเร็จ
+2026-03-24 19:31:56,485 [INFO] __main__ - เริ่มต้น GUI...
+2026-03-24 19:32:19,384 [ERROR] database.user_model - ดึงข้อมูล user ล้มเหลว: {'code': 'PGRST116', 'details': 'The result contains 0 rows', 'hint': None, 'message': 'Cannot coerce the result to a single JSON object'}
+2026-03-24 19:32:19,384 [INFO] services.register_service - เริ่มถ่ายรูปสำหรับ ืำำneem
+2026-03-24 19:32:24,434 [INFO] services.register_service - เริ่มถ่ายรูปสำหรับ 'ืำำneem' (กด SPACE เพื่อถ่าย, ESC เพื่อยกเลิก)
+2026-03-24 19:32:29,387 [INFO] services.register_service - บันทึกรูป: dataset\ืำำneem\ืำำneem_1.jpg
+2026-03-24 19:32:32,330 [INFO] services.register_service - บันทึกรูป: dataset\ืำำneem\ืำำneem_2.jpg
+2026-03-24 19:32:33,940 [INFO] services.register_service - บันทึกรูป: dataset\ืำำneem\ืำำneem_3.jpg
+2026-03-24 19:32:35,802 [INFO] services.register_service - บันทึกรูป: dataset\ืำำneem\ืำำneem_4.jpg
+2026-03-24 19:32:37,275 [INFO] services.register_service - บันทึกรูป: dataset\ืำำneem\ืำำneem_5.jpg
+2026-03-24 19:32:37,317 [WARNING] core.encoding - ไม่มี encoding สำหรับ ืำำneem
+2026-03-24 19:33:03,845 [INFO] __main__ - ✅ ตรวจสอบ requirements ผ่าน
+2026-03-24 19:33:03,848 [INFO] __main__ - ทดสอบการเชื่อมต่อ Supabase...
+2026-03-24 19:33:03,882 [INFO] database.db_connect - เชื่อมต่อ Supabase สำเร็จ
+2026-03-24 19:33:04,259 [INFO] database.db_connect - ทดสอบการเชื่อมต่อสำเร็จ
+2026-03-24 19:33:04,259 [INFO] __main__ - เริ่มต้น GUI...
+2026-03-24 19:33:41,766 [INFO] __main__ - ✅ ตรวจสอบ requirements ผ่าน
+2026-03-24 19:33:41,766 [INFO] __main__ - ทดสอบการเชื่อมต่อ Supabase...
+2026-03-24 19:33:41,800 [INFO] database.db_connect - เชื่อมต่อ Supabase สำเร็จ
+2026-03-24 19:33:42,259 [INFO] database.db_connect - ทดสอบการเชื่อมต่อสำเร็จ
+2026-03-24 19:33:42,259 [INFO] __main__ - เริ่มต้น GUI...
+2026-03-24 19:33:57,038 [INFO] __main__ - ✅ ตรวจสอบ requirements ผ่าน
+2026-03-24 19:33:57,040 [INFO] __main__ - ทดสอบการเชื่อมต่อ Supabase...
+2026-03-24 19:33:57,070 [INFO] database.db_connect - เชื่อมต่อ Supabase สำเร็จ
+2026-03-24 19:33:57,311 [INFO] database.db_connect - ทดสอบการเชื่อมต่อสำเร็จ
+2026-03-24 19:33:57,312 [INFO] __main__ - เริ่มต้น GUI...
+2026-03-24 19:34:20,388 [ERROR] database.user_model - ดึงข้อมูล user ล้มเหลว: {'code': 'PGRST116', 'details': 'The result contains 0 rows', 'hint': None, 'message': 'Cannot coerce the result to a single JSON object'}
+2026-03-24 19:34:20,388 [INFO] services.register_service - เริ่มถ่ายรูปสำหรับ neem
+2026-03-24 19:34:25,442 [INFO] services.register_service - เริ่มถ่ายรูปสำหรับ 'neem' (กด SPACE เพื่อถ่าย, ESC เพื่อยกเลิก)
+2026-03-24 19:34:30,794 [INFO] services.register_service - บันทึกรูป: dataset\neem\neem_1.jpg
+2026-03-24 19:34:32,923 [INFO] services.register_service - บันทึกรูป: dataset\neem\neem_2.jpg
+2026-03-24 19:34:34,894 [INFO] services.register_service - บันทึกรูป: dataset\neem\neem_3.jpg
+2026-03-24 19:34:35,839 [INFO] services.register_service - บันทึกรูป: dataset\neem\neem_4.jpg
+2026-03-24 19:34:36,907 [INFO] services.register_service - บันทึกรูป: dataset\neem\neem_5.jpg
+2026-03-24 19:34:37,511 [INFO] core.encoding - Encode รูป dataset\neem\neem_1.jpg สำเร็จ
+2026-03-24 19:34:38,056 [INFO] core.encoding - Encode รูป dataset\neem\neem_2.jpg สำเร็จ
+2026-03-24 19:34:38,585 [INFO] core.encoding - Encode รูป dataset\neem\neem_3.jpg สำเร็จ
+2026-03-24 19:34:39,103 [INFO] core.encoding - Encode รูป dataset\neem\neem_4.jpg สำเร็จ
+2026-03-24 19:34:39,621 [INFO] core.encoding - Encode รูป dataset\neem\neem_5.jpg สำเร็จ
+2026-03-24 19:34:39,624 [INFO] core.encoding - Encode neem ได้ 5 รูป
+2026-03-24 19:34:39,858 [INFO] database.user_model - สร้าง user 'neem' สำเร็จ
+2026-03-24 19:34:39,859 [INFO] services.register_service - ลงทะเบียน 'neem' สำเร็จ
+2026-03-24 19:34:48,199 [INFO] services.login_service - กำลังโหลดข้อมูลใบหน้า...
+2026-03-24 19:34:53,383 [INFO] services.login_service - กรุณากระพริบตา 2 ครั้ง เพื่อยืนยันตัวตน...
+2026-03-24 19:34:53,386 [INFO] core.blink_detection - รอการกระพริบตา 2 ครั้ง (timeout: 10s)
+2026-03-24 19:34:54,661 [INFO] core.blink_detection - โหลด shape predictor สำเร็จ
+2026-03-24 19:34:55,433 [INFO] core.blink_detection - ตรวจพบกระพริบตา #1 (EAR: 0.293)
+2026-03-24 19:34:56,632 [INFO] core.blink_detection - ตรวจพบกระพริบตา #2 (EAR: 0.292)
+2026-03-24 19:34:56,632 [INFO] core.blink_detection - กระพริบตาครบ 2 ครั้ง ✓
+2026-03-24 19:34:56,632 [INFO] services.login_service - ผ่านการตรวจ Anti-Spoofing ✓ กำลังจดจำใบหน้า...
+2026-03-24 19:34:57,548 [INFO] services.login_service - กำลังเปรียบเทียบใบหน้า...
+2026-03-24 19:34:57,548 [INFO] core.face_recognition_core - Face comparison: match=True, distance=0.3885
+2026-03-24 19:34:57,928 [INFO] database.log_model - บันทึก log: user=neem, status=success
+2026-03-24 19:35:08,725 [INFO] services.login_service - กำลังโหลดข้อมูลใบหน้า...
+2026-03-24 19:35:13,814 [INFO] services.login_service - กรุณากระพริบตา 2 ครั้ง เพื่อยืนยันตัวตน...
+2026-03-24 19:35:13,818 [INFO] core.blink_detection - รอการกระพริบตา 2 ครั้ง (timeout: 10s)
+2026-03-24 19:35:15,989 [INFO] core.blink_detection - ตรวจพบกระพริบตา #1 (EAR: 0.261)
+2026-03-24 19:35:20,134 [INFO] core.blink_detection - ตรวจพบกระพริบตา #2 (EAR: 0.288)
+2026-03-24 19:35:20,135 [INFO] core.blink_detection - กระพริบตาครบ 2 ครั้ง ✓
+2026-03-24 19:35:20,135 [INFO] services.login_service - ผ่านการตรวจ Anti-Spoofing ✓ กำลังจดจำใบหน้า...
+2026-03-24 19:35:21,178 [INFO] services.login_service - กำลังเปรียบเทียบใบหน้า...
+2026-03-24 19:35:21,178 [INFO] core.face_recognition_core - Face comparison: match=True, distance=0.3359
+2026-03-24 19:35:21,551 [INFO] database.log_model - บันทึก log: user=neem, status=success
+2026-03-24 19:35:54,366 [INFO] services.login_service - กำลังโหลดข้อมูลใบหน้า...
+2026-03-24 19:35:59,802 [INFO] services.login_service - กรุณากระพริบตา 2 ครั้ง เพื่อยืนยันตัวตน...
+2026-03-24 19:35:59,802 [INFO] core.blink_detection - รอการกระพริบตา 2 ครั้ง (timeout: 10s)
+2026-03-24 19:36:09,802 [WARNING] core.blink_detection - Blink detection timeout
+2026-03-24 19:36:10,276 [INFO] database.log_model - บันทึก log: user=None, status=spoof_detected
+2026-03-24 19:36:28,684 [INFO] services.login_service - กำลังโหลดข้อมูลใบหน้า...
+2026-03-24 19:36:33,944 [INFO] services.login_service - กรุณากระพริบตา 2 ครั้ง เพื่อยืนยันตัวตน...
+2026-03-24 19:36:33,944 [INFO] core.blink_detection - รอการกระพริบตา 2 ครั้ง (timeout: 10s)
+2026-03-24 19:36:34,790 [INFO] core.blink_detection - ตรวจพบกระพริบตา #1 (EAR: 0.257)
+2026-03-24 19:36:37,522 [INFO] core.blink_detection - ตรวจพบกระพริบตา #2 (EAR: 0.258)
+2026-03-24 19:36:37,522 [INFO] core.blink_detection - กระพริบตาครบ 2 ครั้ง ✓
+2026-03-24 19:36:37,522 [INFO] services.login_service - ผ่านการตรวจ Anti-Spoofing ✓ กำลังจดจำใบหน้า...
+2026-03-24 19:36:39,272 [INFO] services.login_service - กำลังเปรียบเทียบใบหน้า...
+2026-03-24 19:36:39,273 [INFO] core.face_recognition_core - Face comparison: match=True, distance=0.4991
+2026-03-24 19:36:39,660 [INFO] database.log_model - บันทึก log: user=neem, status=success
+2026-03-24 19:37:42,695 [INFO] __main__ - ✅ ตรวจสอบ requirements ผ่าน
+2026-03-24 19:37:42,695 [INFO] __main__ - ทดสอบการเชื่อมต่อ Supabase...
+2026-03-24 19:37:42,725 [INFO] database.db_connect - เชื่อมต่อ Supabase สำเร็จ
+2026-03-24 19:37:43,004 [INFO] database.db_connect - ทดสอบการเชื่อมต่อสำเร็จ
+2026-03-24 19:37:43,005 [INFO] __main__ - เริ่มต้น GUI...
+2026-03-24 19:37:57,847 [ERROR] database.user_model - ดึงข้อมูล user ล้มเหลว: {'code': 'PGRST116', 'details': 'The result contains 0 rows', 'hint': None, 'message': 'Cannot coerce the result to a single JSON object'}
+2026-03-24 19:37:57,847 [INFO] services.register_service - เริ่มถ่ายรูปสำหรับ pas
+2026-03-24 19:38:03,188 [INFO] services.register_service - เริ่มถ่ายรูปสำหรับ 'pas' (กด SPACE เพื่อถ่าย, ESC เพื่อยกเลิก)
+2026-03-24 19:38:10,742 [INFO] services.register_service - บันทึกรูป: dataset\pas\pas_1.jpg
+2026-03-24 19:38:12,046 [INFO] services.register_service - บันทึกรูป: dataset\pas\pas_2.jpg
+2026-03-24 19:38:12,718 [INFO] services.register_service - บันทึกรูป: dataset\pas\pas_3.jpg
+2026-03-24 19:38:15,516 [INFO] services.register_service - บันทึกรูป: dataset\pas\pas_4.jpg
+2026-03-24 19:38:16,318 [INFO] services.register_service - บันทึกรูป: dataset\pas\pas_5.jpg
+2026-03-24 19:38:16,917 [INFO] core.encoding - Encode รูป dataset\pas\pas_1.jpg สำเร็จ
+2026-03-24 19:38:17,502 [INFO] core.encoding - Encode รูป dataset\pas\pas_2.jpg สำเร็จ
+2026-03-24 19:38:18,019 [INFO] core.encoding - Encode รูป dataset\pas\pas_3.jpg สำเร็จ
+2026-03-24 19:38:18,536 [INFO] core.encoding - Encode รูป dataset\pas\pas_4.jpg สำเร็จ
+2026-03-24 19:38:19,055 [INFO] core.encoding - Encode รูป dataset\pas\pas_5.jpg สำเร็จ
+2026-03-24 19:38:19,058 [INFO] core.encoding - Encode pas ได้ 5 รูป
+2026-03-24 19:38:19,241 [INFO] database.user_model - สร้าง user 'pas' สำเร็จ
+2026-03-24 19:38:19,242 [INFO] services.register_service - ลงทะเบียน 'pas' สำเร็จ
+2026-03-24 19:38:34,473 [INFO] services.login_service - กำลังโหลดข้อมูลใบหน้า...
+2026-03-24 19:38:39,501 [INFO] services.login_service - กรุณากระพริบตา 2 ครั้ง เพื่อยืนยันตัวตน...
+2026-03-24 19:38:39,501 [INFO] core.blink_detection - รอการกระพริบตา 2 ครั้ง (timeout: 10s)
+2026-03-24 19:38:40,833 [INFO] core.blink_detection - โหลด shape predictor สำเร็จ
+2026-03-24 19:38:43,148 [INFO] core.blink_detection - ตรวจพบกระพริบตา #1 (EAR: 0.294)
+2026-03-24 19:38:43,677 [INFO] core.blink_detection - ตรวจพบกระพริบตา #2 (EAR: 0.267)
+2026-03-24 19:38:43,679 [INFO] core.blink_detection - กระพริบตาครบ 2 ครั้ง ✓
+2026-03-24 19:38:43,679 [INFO] services.login_service - ผ่านการตรวจ Anti-Spoofing ✓ กำลังจดจำใบหน้า...
+2026-03-24 19:38:44,605 [INFO] services.login_service - กำลังเปรียบเทียบใบหน้า...
+2026-03-24 19:38:44,606 [INFO] core.face_recognition_core - Face comparison: match=False, distance=0.5956
+2026-03-24 19:38:44,606 [INFO] core.face_recognition_core - Face comparison: match=True, distance=0.4709
+2026-03-24 19:38:44,955 [INFO] database.log_model - บันทึก log: user=pas, status=success
+2026-03-24 19:38:55,067 [INFO] services.login_service - กำลังโหลดข้อมูลใบหน้า...
+2026-03-24 19:39:00,171 [INFO] services.login_service - กรุณากระพริบตา 2 ครั้ง เพื่อยืนยันตัวตน...
+2026-03-24 19:39:00,171 [INFO] core.blink_detection - รอการกระพริบตา 2 ครั้ง (timeout: 10s)
+2026-03-24 19:39:04,036 [INFO] core.blink_detection - ตรวจพบกระพริบตา #1 (EAR: 0.272)
+2026-03-24 19:39:05,497 [INFO] core.blink_detection - ตรวจพบกระพริบตา #2 (EAR: 0.297)
+2026-03-24 19:39:05,497 [INFO] core.blink_detection - กระพริบตาครบ 2 ครั้ง ✓
+2026-03-24 19:39:05,497 [INFO] services.login_service - ผ่านการตรวจ Anti-Spoofing ✓ กำลังจดจำใบหน้า...
+2026-03-24 19:39:06,397 [INFO] services.login_service - กำลังเปรียบเทียบใบหน้า...
+2026-03-24 19:39:06,397 [INFO] core.face_recognition_core - Face comparison: match=True, distance=0.4187
+2026-03-24 19:39:06,397 [INFO] core.face_recognition_core - Face comparison: match=True, distance=0.2651
+2026-03-24 19:39:06,731 [INFO] database.log_model - บันทึก log: user=pas, status=success
+2026-03-24 19:39:31,717 [INFO] services.login_service - กำลังโหลดข้อมูลใบหน้า...
+2026-03-24 19:39:36,797 [INFO] services.login_service - กรุณากระพริบตา 2 ครั้ง เพื่อยืนยันตัวตน...
+2026-03-24 19:39:36,797 [INFO] core.blink_detection - รอการกระพริบตา 2 ครั้ง (timeout: 10s)
+2026-03-24 19:39:46,849 [WARNING] core.blink_detection - Blink detection timeout
+2026-03-24 19:39:47,332 [INFO] database.log_model - บันทึก log: user=None, status=spoof_detected
+2026-03-24 19:44:46,922 [INFO] services.login_service - กำลังโหลดข้อมูลใบหน้า...
+2026-03-24 19:44:52,635 [INFO] services.login_service - กรุณากระพริบตา 2 ครั้ง เพื่อยืนยันตัวตน...
+2026-03-24 19:44:52,635 [INFO] core.blink_detection - รอการกระพริบตา 2 ครั้ง (timeout: 10s)
+2026-03-24 19:44:53,988 [INFO] core.blink_detection - ตรวจพบกระพริบตา #1 (EAR: 0.262)
+2026-03-24 19:44:54,543 [INFO] core.blink_detection - ตรวจพบกระพริบตา #2 (EAR: 0.267)
+2026-03-24 19:44:54,543 [INFO] core.blink_detection - กระพริบตาครบ 2 ครั้ง ✓
+2026-03-24 19:44:54,543 [INFO] services.login_service - ผ่านการตรวจ Anti-Spoofing ✓ กำลังจดจำใบหน้า...
+2026-03-24 19:44:55,442 [INFO] services.login_service - กำลังเปรียบเทียบใบหน้า...
+2026-03-24 19:44:55,442 [INFO] core.face_recognition_core - Face comparison: match=True, distance=0.4509
+2026-03-24 19:44:55,442 [INFO] core.face_recognition_core - Face comparison: match=True, distance=0.4744
+2026-03-24 19:44:55,871 [INFO] database.log_model - บันทึก log: user=neem, status=success
+2026-03-24 23:03:53,320 [ERROR] database.user_model - ดึงข้อมูล user ล้มเหลว: {'code': 'PGRST116', 'details': 'The result contains 0 rows', 'hint': None, 'message': 'Cannot coerce the result to a single JSON object'}
+2026-03-24 23:03:53,320 [INFO] services.register_service - เริ่มถ่ายรูปสำหรับ fluke
+2026-03-24 23:03:58,556 [INFO] services.register_service - เริ่มถ่ายรูปสำหรับ 'fluke' (กด SPACE เพื่อถ่าย, ESC เพื่อยกเลิก)
+2026-03-24 23:04:04,117 [INFO] services.register_service - บันทึกรูป: dataset\fluke\fluke_1.jpg
+2026-03-24 23:04:05,298 [INFO] services.register_service - บันทึกรูป: dataset\fluke\fluke_2.jpg
+2026-03-24 23:04:06,520 [INFO] services.register_service - บันทึกรูป: dataset\fluke\fluke_3.jpg
+2026-03-24 23:04:07,632 [INFO] services.register_service - บันทึกรูป: dataset\fluke\fluke_4.jpg
+2026-03-24 23:04:10,448 [INFO] services.register_service - บันทึกรูป: dataset\fluke\fluke_5.jpg
+2026-03-24 23:04:11,052 [INFO] core.encoding - Encode รูป dataset\fluke\fluke_1.jpg สำเร็จ
+2026-03-24 23:04:11,646 [INFO] core.encoding - Encode รูป dataset\fluke\fluke_2.jpg สำเร็จ
+2026-03-24 23:04:12,183 [INFO] core.encoding - Encode รูป dataset\fluke\fluke_3.jpg สำเร็จ
+2026-03-24 23:04:12,737 [INFO] core.encoding - Encode รูป dataset\fluke\fluke_4.jpg สำเร็จ
+2026-03-24 23:04:13,268 [INFO] core.encoding - Encode รูป dataset\fluke\fluke_5.jpg สำเร็จ
+2026-03-24 23:04:13,268 [INFO] core.encoding - Encode fluke ได้ 5 รูป
+2026-03-24 23:04:13,581 [INFO] database.user_model - สร้าง user 'fluke' สำเร็จ
+2026-03-24 23:04:13,582 [INFO] services.register_service - ลงทะเบียน 'fluke' สำเร็จ
+2026-03-24 23:04:26,567 [INFO] services.login_service - กำลังโหลดข้อมูลใบหน้า...
+2026-03-24 23:04:31,897 [INFO] services.login_service - กรุณากระพริบตา 2 ครั้ง เพื่อยืนยันตัวตน...
+2026-03-24 23:04:31,906 [INFO] core.blink_detection - รอการกระพริบตา 2 ครั้ง (timeout: 10s)
+2026-03-24 23:04:41,934 [WARNING] core.blink_detection - Blink detection timeout
+2026-03-24 23:04:42,816 [INFO] database.log_model - บันทึก log: user=None, status=spoof_detected
+2026-03-24 23:04:56,188 [INFO] services.login_service - กำลังโหลดข้อมูลใบหน้า...
+2026-03-24 23:05:02,130 [INFO] services.login_service - กรุณากระพริบตา 2 ครั้ง เพื่อยืนยันตัวตน...
+2026-03-24 23:05:02,149 [INFO] core.blink_detection - รอการกระพริบตา 2 ครั้ง (timeout: 10s)
+2026-03-24 23:05:08,208 [INFO] core.blink_detection - ตรวจพบกระพริบตา #1 (EAR: 0.334)
+2026-03-24 23:05:08,689 [INFO] core.blink_detection - ตรวจพบกระพริบตา #2 (EAR: 0.312)
+2026-03-24 23:05:08,689 [INFO] core.blink_detection - กระพริบตาครบ 2 ครั้ง ✓
+2026-03-24 23:05:08,689 [INFO] services.login_service - ผ่านการตรวจ Anti-Spoofing ✓ กำลังจดจำใบหน้า...
+2026-03-24 23:05:09,932 [INFO] services.login_service - กำลังเปรียบเทียบใบหน้า...
+2026-03-24 23:05:09,932 [INFO] core.face_recognition_core - Face comparison: match=False, distance=0.6731
+2026-03-24 23:05:09,932 [INFO] core.face_recognition_core - Face comparison: match=False, distance=0.5836
+2026-03-24 23:05:09,932 [INFO] core.face_recognition_core - Face comparison: match=True, distance=0.3225
+2026-03-24 23:05:10,707 [INFO] database.log_model - บันทึก log: user=fluke, status=success
+2026-03-24 23:05:36,140 [INFO] services.login_service - กำลังโหลดข้อมูลใบหน้า...
+2026-03-24 23:05:41,755 [INFO] services.login_service - กรุณากระพริบตา 2 ครั้ง เพื่อยืนยันตัวตน...
+2026-03-24 23:05:41,774 [INFO] core.blink_detection - รอการกระพริบตา 2 ครั้ง (timeout: 10s)
+2026-03-24 23:05:51,790 [WARNING] core.blink_detection - Blink detection timeout
+2026-03-24 23:05:52,512 [INFO] database.log_model - บันทึก log: user=None, status=spoof_detected
+2026-03-24 23:06:17,266 [INFO] services.login_service - กำลังโหลดข้อมูลใบหน้า...
+2026-03-24 23:06:22,702 [INFO] services.login_service - กรุณากระพริบตา 2 ครั้ง เพื่อยืนยันตัวตน...
+2026-03-24 23:06:22,725 [INFO] core.blink_detection - รอการกระพริบตา 2 ครั้ง (timeout: 10s)
+2026-03-24 23:06:23,703 [INFO] core.blink_detection - ตรวจพบกระพริบตา #1 (EAR: 0.264)
+2026-03-24 23:06:27,034 [INFO] core.blink_detection - ตรวจพบกระพริบตา #2 (EAR: 0.253)
+2026-03-24 23:06:27,034 [INFO] core.blink_detection - กระพริบตาครบ 2 ครั้ง ✓
+2026-03-24 23:06:27,034 [INFO] services.login_service - ผ่านการตรวจ Anti-Spoofing ✓ กำลังจดจำใบหน้า...
+2026-03-24 23:06:28,058 [INFO] services.login_service - กำลังเปรียบเทียบใบหน้า...
+2026-03-24 23:06:28,058 [INFO] core.face_recognition_core - Face comparison: match=True, distance=0.4511
+2026-03-24 23:06:28,058 [INFO] core.face_recognition_core - Face comparison: match=True, distance=0.4277
+2026-03-24 23:06:28,058 [INFO] core.face_recognition_core - Face comparison: match=False, distance=0.6635
+2026-03-24 23:06:28,704 [INFO] database.log_model - บันทึก log: user=pas, status=success
+2026-03-25 12:34:58,858 [INFO] __main__ - ✅ ตรวจสอบ requirements ผ่าน
+2026-03-25 12:34:58,858 [INFO] __main__ - ทดสอบการเชื่อมต่อ Supabase...
+2026-03-25 12:34:58,929 [INFO] database.db_connect - เชื่อมต่อ Supabase สำเร็จ
+2026-03-25 12:35:00,166 [INFO] database.db_connect - ทดสอบการเชื่อมต่อสำเร็จ
+2026-03-25 12:35:00,166 [INFO] __main__ - เริ่มต้น GUI...
+2026-03-25 12:35:43,678 [ERROR] database.user_model - ดึงข้อมูล user ล้มเหลว: {'code': 'PGRST116', 'details': 'The result contains 0 rows', 'hint': None, 'message': 'Cannot coerce the result to a single JSON object'}
+2026-03-25 12:35:43,678 [INFO] services.register_service - เริ่มถ่ายรูปสำหรับ wine
+2026-03-25 12:35:51,366 [INFO] services.register_service - เริ่มถ่ายรูปสำหรับ 'wine' (กด SPACE เพื่อถ่าย, ESC เพื่อยกเลิก)
+2026-03-25 12:36:03,458 [INFO] services.register_service - บันทึกรูป: dataset\wine\wine_1.jpg
+2026-03-25 12:36:05,151 [INFO] services.register_service - บันทึกรูป: dataset\wine\wine_2.jpg
+2026-03-25 12:36:06,354 [INFO] services.register_service - บันทึกรูป: dataset\wine\wine_3.jpg
+2026-03-25 12:36:07,554 [INFO] services.register_service - บันทึกรูป: dataset\wine\wine_4.jpg
+2026-03-25 12:36:08,369 [INFO] services.register_service - บันทึกรูป: dataset\wine\wine_5.jpg
+2026-03-25 12:36:09,261 [INFO] core.encoding - Encode รูป dataset\wine\wine_1.jpg สำเร็จ
+2026-03-25 12:36:10,012 [INFO] core.encoding - Encode รูป dataset\wine\wine_2.jpg สำเร็จ
+2026-03-25 12:36:10,867 [INFO] core.encoding - Encode รูป dataset\wine\wine_3.jpg สำเร็จ
+2026-03-25 12:36:11,642 [INFO] core.encoding - Encode รูป dataset\wine\wine_4.jpg สำเร็จ
+2026-03-25 12:36:12,403 [INFO] core.encoding - Encode รูป dataset\wine\wine_5.jpg สำเร็จ
+2026-03-25 12:36:12,406 [INFO] core.encoding - Encode wine ได้ 5 รูป
+2026-03-25 12:36:12,698 [INFO] database.user_model - สร้าง user 'wine' สำเร็จ
+2026-03-25 12:36:12,701 [INFO] services.register_service - ลงทะเบียน 'wine' สำเร็จ
+2026-03-25 12:36:19,707 [INFO] services.login_service - กำลังโหลดข้อมูลใบหน้า...
+2026-03-25 12:36:26,416 [INFO] services.login_service - กรุณากระพริบตา 2 ครั้ง เพื่อยืนยันตัวตน...
+2026-03-25 12:36:26,416 [INFO] core.blink_detection - รอการกระพริบตา 2 ครั้ง (timeout: 10s)
+2026-03-25 12:36:27,986 [INFO] core.blink_detection - โหลด shape predictor สำเร็จ
+2026-03-25 12:36:36,433 [WARNING] core.blink_detection - Blink detection timeout
+2026-03-25 12:36:37,038 [INFO] database.log_model - บันทึก log: user=None, status=spoof_detected
+2026-03-25 12:36:46,057 [INFO] services.login_service - กำลังโหลดข้อมูลใบหน้า...
+2026-03-25 12:36:52,828 [INFO] services.login_service - กรุณากระพริบตา 2 ครั้ง เพื่อยืนยันตัวตน...
+2026-03-25 12:36:52,828 [INFO] core.blink_detection - รอการกระพริบตา 2 ครั้ง (timeout: 10s)
+2026-03-25 12:36:54,703 [INFO] core.blink_detection - ตรวจพบกระพริบตา #1 (EAR: 0.271)
+2026-03-25 12:36:55,491 [INFO] core.blink_detection - ตรวจพบกระพริบตา #2 (EAR: 0.277)
+2026-03-25 12:36:55,492 [INFO] core.blink_detection - กระพริบตาครบ 2 ครั้ง ✓
+2026-03-25 12:36:55,492 [INFO] services.login_service - ผ่านการตรวจ Anti-Spoofing ✓ กำลังจดจำใบหน้า...
+2026-03-25 12:36:56,579 [INFO] services.login_service - กำลังเปรียบเทียบใบหน้า...
+2026-03-25 12:36:56,605 [INFO] core.face_recognition_core - Face comparison: match=False, distance=0.6540
+2026-03-25 12:36:56,605 [INFO] core.face_recognition_core - Face comparison: match=False, distance=0.5833
+2026-03-25 12:36:56,607 [INFO] core.face_recognition_core - Face comparison: match=False, distance=0.5297
+2026-03-25 12:36:56,608 [INFO] core.face_recognition_core - Face comparison: match=True, distance=0.1984
+2026-03-25 12:36:57,120 [INFO] database.log_model - บันทึก log: user=wine, status=success
+2026-03-25 12:37:19,485 [INFO] services.login_service - กำลังโหลดข้อมูลใบหน้า...
+2026-03-25 12:37:26,026 [INFO] services.login_service - กรุณากระพริบตา 2 ครั้ง เพื่อยืนยันตัวตน...
+2026-03-25 12:37:26,026 [INFO] core.blink_detection - รอการกระพริบตา 2 ครั้ง (timeout: 10s)
+2026-03-25 12:37:36,045 [WARNING] core.blink_detection - Blink detection timeout
+2026-03-25 12:37:36,755 [INFO] database.log_model - บันทึก log: user=None, status=spoof_detected
+2026-03-25 12:37:53,834 [INFO] services.login_service - กำลังโหลดข้อมูลใบหน้า...
+2026-03-25 12:38:00,808 [INFO] services.login_service - กรุณากระพริบตา 2 ครั้ง เพื่อยืนยันตัวตน...
+2026-03-25 12:38:00,808 [INFO] core.blink_detection - รอการกระพริบตา 2 ครั้ง (timeout: 10s)
+2026-03-25 12:38:10,818 [WARNING] core.blink_detection - Blink detection timeout
+2026-03-25 12:38:11,481 [INFO] database.log_model - บันทึก log: user=None, status=spoof_detected
+2026-03-25 12:39:16,296 [INFO] services.login_service - กำลังโหลดข้อมูลใบหน้า...
+2026-03-25 12:39:21,865 [INFO] services.login_service - กรุณากระพริบตา 2 ครั้ง เพื่อยืนยันตัวตน...
+2026-03-25 12:39:21,865 [INFO] core.blink_detection - รอการกระพริบตา 2 ครั้ง (timeout: 10s)
+2026-03-25 12:39:22,845 [INFO] core.blink_detection - ตรวจพบกระพริบตา #1 (EAR: 0.256)
+2026-03-25 12:39:23,243 [INFO] core.blink_detection - ตรวจพบกระพริบตา #2 (EAR: 0.253)
+2026-03-25 12:39:23,244 [INFO] core.blink_detection - กระพริบตาครบ 2 ครั้ง ✓
+2026-03-25 12:39:23,244 [INFO] services.login_service - ผ่านการตรวจ Anti-Spoofing ✓ กำลังจดจำใบหน้า...
+2026-03-25 12:39:24,140 [INFO] services.login_service - กำลังเปรียบเทียบใบหน้า...
+2026-03-25 12:39:24,140 [INFO] core.face_recognition_core - Face comparison: match=True, distance=0.4076
+2026-03-25 12:39:24,144 [INFO] core.face_recognition_core - Face comparison: match=True, distance=0.3904
+2026-03-25 12:39:24,144 [INFO] core.face_recognition_core - Face comparison: match=False, distance=0.6118
+2026-03-25 12:39:24,144 [INFO] core.face_recognition_core - Face comparison: match=False, distance=0.6476
+2026-03-25 12:39:24,554 [INFO] database.log_model - บันทึก log: user=pas, status=success
+2026-03-25 12:42:53,913 [INFO] __main__ - ✅ ตรวจสอบ requirements ผ่าน
+2026-03-25 12:42:53,913 [INFO] __main__ - ทดสอบการเชื่อมต่อ Supabase...
+2026-03-25 12:42:53,946 [INFO] database.db_connect - เชื่อมต่อ Supabase สำเร็จ
+2026-03-25 12:42:54,778 [INFO] database.db_connect - ทดสอบการเชื่อมต่อสำเร็จ
+2026-03-25 12:42:54,778 [INFO] __main__ - เริ่มต้น GUI...
+2026-03-25 12:43:05,573 [INFO] services.login_service - Loading face data...
+2026-03-25 12:43:10,860 [INFO] services.login_service - Please blink 2 times to verify identity...
+2026-03-25 12:43:10,861 [INFO] core.blink_detection - รอการกระพริบตา 2 ครั้ง (timeout: 10s)
+2026-03-25 12:43:12,021 [INFO] core.blink_detection - โหลด shape predictor สำเร็จ
+2026-03-25 12:43:13,432 [INFO] core.blink_detection - ตรวจพบกระพริบตา #1 (EAR: 0.276)
+2026-03-25 12:43:13,771 [INFO] core.blink_detection - ตรวจพบกระพริบตา #2 (EAR: 0.260)
+2026-03-25 12:43:13,771 [INFO] core.blink_detection - กระพริบตาครบ 2 ครั้ง ✓
+2026-03-25 12:43:13,771 [INFO] services.login_service - Anti-spoofing passed ✓ Recognizing face...
+2026-03-25 12:43:14,669 [INFO] services.login_service - Matching face...
+2026-03-25 12:43:14,669 [INFO] core.face_recognition_core - Face comparison: match=True, distance=0.4449
+2026-03-25 12:43:14,669 [INFO] core.face_recognition_core - Face comparison: match=True, distance=0.4230
+2026-03-25 12:43:14,670 [INFO] core.face_recognition_core - Face comparison: match=False, distance=0.6384
+2026-03-25 12:43:14,670 [INFO] core.face_recognition_core - Face comparison: match=False, distance=0.6998
+2026-03-25 12:43:15,153 [INFO] database.log_model - บันทึก log: user=pas, status=success
+2026-03-25 12:54:25,932 [INFO] __main__ - ✅ ตรวจสอบ requirements ผ่าน
+2026-03-25 12:54:25,935 [INFO] __main__ - ทดสอบการเชื่อมต่อ Supabase...
+2026-03-25 12:54:25,970 [INFO] database.db_connect - เชื่อมต่อ Supabase สำเร็จ
+2026-03-25 12:54:26,899 [INFO] database.db_connect - ทดสอบการเชื่อมต่อสำเร็จ
+2026-03-25 12:54:26,899 [INFO] __main__ - เริ่มต้น GUI...
+2026-03-25 12:54:54,976 [INFO] __main__ - ✅ ตรวจสอบ requirements ผ่าน
+2026-03-25 12:54:54,976 [INFO] __main__ - ทดสอบการเชื่อมต่อ Supabase...
+2026-03-25 12:54:55,008 [INFO] database.db_connect - เชื่อมต่อ Supabase สำเร็จ
+2026-03-25 12:54:55,492 [INFO] database.db_connect - ทดสอบการเชื่อมต่อสำเร็จ
+2026-03-25 12:54:55,492 [INFO] __main__ - เริ่มต้น GUI...
+2026-03-25 12:55:31,491 [INFO] __main__ - ✅ ตรวจสอบ requirements ผ่าน
+2026-03-25 12:55:31,492 [INFO] __main__ - ทดสอบการเชื่อมต่อ Supabase...
+2026-03-25 12:55:31,524 [INFO] database.db_connect - เชื่อมต่อ Supabase สำเร็จ
+2026-03-25 12:55:31,978 [INFO] database.db_connect - ทดสอบการเชื่อมต่อสำเร็จ
+2026-03-25 12:55:31,978 [INFO] __main__ - เริ่มต้น GUI...
+2026-03-25 14:27:20,671 [INFO] __main__ - ✅ ตรวจสอบ requirements ผ่าน
+2026-03-25 14:27:20,671 [INFO] __main__ - ทดสอบการเชื่อมต่อ Supabase...
+2026-03-25 14:27:20,701 [INFO] database.db_connect - เชื่อมต่อ Supabase สำเร็จ
+2026-03-25 14:27:21,883 [INFO] database.db_connect - ทดสอบการเชื่อมต่อสำเร็จ
+2026-03-25 14:27:21,883 [INFO] __main__ - เริ่มต้น GUI...
+2026-03-25 14:27:46,883 [ERROR] database.user_model - ดึงข้อมูล user ล้มเหลว: {'code': 'PGRST116', 'details': 'The result contains 0 rows', 'hint': None, 'message': 'Cannot coerce the result to a single JSON object'}
+2026-03-25 14:27:46,883 [INFO] services.register_service - เริ่มถ่ายรูปสำหรับ สส
+2026-03-25 14:27:52,040 [INFO] services.register_service - เริ่มถ่ายรูปสำหรับ 'สส' (กด SPACE เพื่อถ่าย, ESC เพื่อยกเลิก)
+2026-03-25 14:30:21,026 [INFO] __main__ - ✅ ตรวจสอบ requirements ผ่าน
+2026-03-25 14:30:21,026 [INFO] __main__ - ทดสอบการเชื่อมต่อ Supabase...
+2026-03-25 14:30:21,056 [INFO] database.db_connect - เชื่อมต่อ Supabase สำเร็จ
+2026-03-25 14:30:21,763 [INFO] database.db_connect - ทดสอบการเชื่อมต่อสำเร็จ
+2026-03-25 14:30:21,764 [INFO] __main__ - เริ่มต้น GUI...
+2026-03-25 14:30:36,989 [ERROR] database.user_model - ดึงข้อมูล user ล้มเหลว: {'code': 'PGRST116', 'details': 'The result contains 0 rows', 'hint': None, 'message': 'Cannot coerce the result to a single JSON object'}
+2026-03-25 14:30:36,989 [INFO] services.register_service - Starting image capture for ...
+2026-03-25 14:30:42,103 [INFO] services.register_service - Starting capture for '...' (SPACE to capture, ESC to cancel)
+2026-03-25 14:30:52,423 [INFO] services.register_service - Image capture cancelled
+2026-03-25 14:31:26,501 [INFO] __main__ - ✅ ตรวจสอบ requirements ผ่าน
+2026-03-25 14:31:26,501 [INFO] __main__ - ทดสอบการเชื่อมต่อ Supabase...
+2026-03-25 14:31:26,531 [INFO] database.db_connect - เชื่อมต่อ Supabase สำเร็จ
+2026-03-25 14:31:26,817 [INFO] database.db_connect - ทดสอบการเชื่อมต่อสำเร็จ
+2026-03-25 14:31:26,817 [INFO] __main__ - เริ่มต้น GUI...
+2026-03-25 14:32:47,595 [INFO] services.login_service - Loading face data...
+2026-03-25 14:32:53,586 [INFO] services.login_service - Please blink 2 times to verify identity...
+2026-03-25 14:32:53,587 [INFO] core.blink_detection - รอการกระพริบตา 2 ครั้ง (timeout: 10s)
+2026-03-25 14:32:54,769 [INFO] core.blink_detection - โหลด shape predictor สำเร็จ
+2026-03-25 14:32:55,588 [INFO] core.blink_detection - ตรวจพบกระพริบตา #1 (EAR: 0.263)
+2026-03-25 14:33:00,126 [INFO] core.blink_detection - ตรวจพบกระพริบตา #2 (EAR: 0.262)
+2026-03-25 14:33:00,126 [INFO] core.blink_detection - กระพริบตาครบ 2 ครั้ง ✓
+2026-03-25 14:33:00,126 [INFO] services.login_service - Anti-spoofing passed ✓ Recognizing face...
+2026-03-25 14:33:01,044 [INFO] services.login_service - Matching face...
+2026-03-25 14:33:01,044 [INFO] core.face_recognition_core - Face comparison: match=True, distance=0.3974
+2026-03-25 14:33:01,047 [INFO] core.face_recognition_core - Face comparison: match=True, distance=0.2942
+2026-03-25 14:33:01,047 [INFO] core.face_recognition_core - Face comparison: match=False, distance=0.5724
+2026-03-25 14:33:01,047 [INFO] core.face_recognition_core - Face comparison: match=False, distance=0.5836
+2026-03-25 14:33:01,581 [INFO] database.log_model - บันทึก log: user=pas, status=success
+2026-03-25 14:41:01,976 [INFO] __main__ - ✅ ตรวจสอบ requirements ผ่าน
+2026-03-25 14:41:01,978 [INFO] __main__ - ทดสอบการเชื่อมต่อ Supabase...
+2026-03-25 14:41:02,006 [INFO] database.db_connect - เชื่อมต่อ Supabase สำเร็จ
+2026-03-25 14:41:03,127 [INFO] database.db_connect - ทดสอบการเชื่อมต่อสำเร็จ
+2026-03-25 14:41:03,127 [INFO] __main__ - เริ่มต้น GUI...
+2026-03-25 14:43:57,399 [INFO] __main__ - ✅ ตรวจสอบ requirements ผ่าน
+2026-03-25 14:43:57,399 [INFO] __main__ - ทดสอบการเชื่อมต่อ Supabase...
+2026-03-25 14:43:57,429 [INFO] database.db_connect - เชื่อมต่อ Supabase สำเร็จ
+2026-03-25 14:43:58,336 [INFO] database.db_connect - ทดสอบการเชื่อมต่อสำเร็จ
+2026-03-25 14:43:58,336 [INFO] __main__ - เริ่มต้น GUI...
+2026-03-25 14:44:22,445 [INFO] services.login_service - Loading face data...
+2026-03-25 14:44:27,831 [INFO] services.login_service - Please blink 2 times to verify identity...
+2026-03-25 14:44:27,832 [INFO] core.blink_detection - รอการกระพริบตา 2 ครั้ง (timeout: 10s)
+2026-03-25 14:44:29,017 [INFO] core.blink_detection - โหลด shape predictor สำเร็จ
+2026-03-25 14:44:29,417 [INFO] core.blink_detection - ตรวจพบกระพริบตา #1 (EAR: 0.292)
+2026-03-25 14:44:29,608 [INFO] core.blink_detection - ตรวจพบกระพริบตา #2 (EAR: 0.319)
+2026-03-25 14:44:29,608 [INFO] core.blink_detection - กระพริบตาครบ 2 ครั้ง ✓
+2026-03-25 14:44:29,608 [INFO] services.login_service - Anti-spoofing passed ✓ Recognizing face...
+2026-03-25 14:44:30,510 [INFO] services.login_service - Matching face...
+2026-03-25 14:44:30,510 [INFO] core.face_recognition_core - Face comparison: match=True, distance=0.4537
+2026-03-25 14:44:30,510 [INFO] core.face_recognition_core - Face comparison: match=True, distance=0.4160
+2026-03-25 14:44:30,510 [INFO] core.face_recognition_core - Face comparison: match=False, distance=0.5873
+2026-03-25 14:44:30,510 [INFO] core.face_recognition_core - Face comparison: match=False, distance=0.6228
+2026-03-25 14:44:31,073 [INFO] database.log_model - Log saved: user=pas, status=success
+2026-03-25 14:45:23,791 [ERROR] database.user_model - ดึงข้อมูล user ล้มเหลว: {'code': 'PGRST116', 'details': 'The result contains 0 rows', 'hint': None, 'message': 'Cannot coerce the result to a single JSON object'}
+2026-03-25 14:45:23,791 [INFO] services.register_service - Starting image capture for ..
+2026-03-25 14:45:28,932 [INFO] services.register_service - Starting capture for '..' (SPACE to capture, ESC to cancel)
+2026-03-25 14:45:38,668 [INFO] services.register_service - Image capture cancelled
+2026-03-25 14:46:40,691 [INFO] __main__ - ✅ ตรวจสอบ requirements ผ่าน
+2026-03-25 14:46:40,691 [INFO] __main__ - ทดสอบการเชื่อมต่อ Supabase...
+2026-03-25 14:46:40,719 [INFO] database.db_connect - เชื่อมต่อ Supabase สำเร็จ
+2026-03-25 14:46:41,442 [INFO] database.db_connect - ทดสอบการเชื่อมต่อสำเร็จ
+2026-03-25 14:46:41,442 [INFO] __main__ - เริ่มต้น GUI...
+2026-03-25 14:46:56,106 [ERROR] database.user_model - ดึงข้อมูล user ล้มเหลว: {'code': 'PGRST116', 'details': 'The result contains 0 rows', 'hint': None, 'message': 'Cannot coerce the result to a single JSON object'}
+2026-03-25 14:46:56,106 [INFO] services.register_service - Starting image capture for few
+2026-03-25 14:47:01,589 [INFO] services.register_service - Starting capture for 'few' (SPACE to capture, ESC to cancel)
+2026-03-25 14:47:10,306 [INFO] services.register_service - Saved image: dataset\few\few_1.jpg
+2026-03-25 14:47:11,312 [INFO] services.register_service - Saved image: dataset\few\few_2.jpg
+2026-03-25 14:47:12,040 [INFO] services.register_service - Saved image: dataset\few\few_3.jpg
+2026-03-25 14:47:15,918 [INFO] services.register_service - Saved image: dataset\few\few_4.jpg
+2026-03-25 14:47:16,749 [INFO] services.register_service - Saved image: dataset\few\few_5.jpg
+2026-03-25 14:47:17,488 [INFO] core.encoding - Encode รูป dataset\few\few_1.jpg สำเร็จ
+2026-03-25 14:47:18,015 [INFO] core.encoding - Encode รูป dataset\few\few_2.jpg สำเร็จ
+2026-03-25 14:47:18,550 [INFO] core.encoding - Encode รูป dataset\few\few_3.jpg สำเร็จ
+2026-03-25 14:47:19,076 [INFO] core.encoding - Encode รูป dataset\few\few_4.jpg สำเร็จ
+2026-03-25 14:47:19,599 [INFO] core.encoding - Encode รูป dataset\few\few_5.jpg สำเร็จ
+2026-03-25 14:47:19,599 [INFO] core.encoding - Encode few ได้ 5 รูป
+2026-03-25 14:47:19,881 [INFO] database.user_model - สร้าง user 'few' สำเร็จ
+2026-03-25 14:47:19,881 [INFO] services.register_service - Successfully registered 'few'
+2026-03-25 14:48:09,936 [INFO] __main__ - ✅ ตรวจสอบ requirements ผ่าน
+2026-03-25 14:48:09,936 [INFO] __main__ - ทดสอบการเชื่อมต่อ Supabase...
+2026-03-25 14:48:09,962 [INFO] database.db_connect - เชื่อมต่อ Supabase สำเร็จ
+2026-03-25 14:48:10,452 [INFO] database.db_connect - ทดสอบการเชื่อมต่อสำเร็จ
+2026-03-25 14:48:10,452 [INFO] __main__ - เริ่มต้น GUI...
+2026-03-25 14:56:21,045 [INFO] __main__ - ✅ ตรวจสอบ requirements ผ่าน
+2026-03-25 14:56:21,045 [INFO] __main__ - ทดสอบการเชื่อมต่อ Supabase...
+2026-03-25 14:56:21,075 [INFO] database.db_connect - เชื่อมต่อ Supabase สำเร็จ
+2026-03-25 14:56:22,013 [INFO] database.db_connect - ทดสอบการเชื่อมต่อสำเร็จ
+2026-03-25 14:56:22,016 [INFO] __main__ - เริ่มต้น GUI...
+2026-03-25 14:56:56,438 [INFO] services.login_service - Loading face data...
+2026-03-25 14:57:01,850 [INFO] services.login_service - Please blink 2 times to verify identity...
+2026-03-25 14:57:01,850 [INFO] core.blink_detection - รอการกระพริบตา 2 ครั้ง (timeout: 10s)
+2026-03-25 14:57:03,021 [INFO] core.blink_detection - โหลด shape predictor สำเร็จ
+2026-03-25 14:57:04,993 [INFO] core.blink_detection - ตรวจพบกระพริบตา #1 (EAR: 0.250)
+2026-03-25 14:57:05,158 [INFO] core.blink_detection - ตรวจพบกระพริบตา #2 (EAR: 0.251)
+2026-03-25 14:57:05,160 [INFO] core.blink_detection - กระพริบตาครบ 2 ครั้ง ✓
+2026-03-25 14:57:05,160 [INFO] services.login_service - Anti-spoofing passed ✓ Recognizing face...
+2026-03-25 14:57:06,220 [INFO] services.login_service - Matching face...
+2026-03-25 14:57:06,224 [INFO] core.face_recognition_core - Face comparison: match=True, distance=0.4057
+2026-03-25 14:57:06,224 [INFO] core.face_recognition_core - Face comparison: match=True, distance=0.3575
+2026-03-25 14:57:06,224 [INFO] core.face_recognition_core - Face comparison: match=False, distance=0.6185
+2026-03-25 14:57:06,224 [INFO] core.face_recognition_core - Face comparison: match=False, distance=0.6273
+2026-03-25 14:57:06,224 [INFO] core.face_recognition_core - Face comparison: match=False, distance=0.5035
+2026-03-25 14:57:06,752 [INFO] database.log_model - Log saved: user=pas, status=success
+2026-03-25 15:17:23,281 [INFO] __main__ - ✅ ตรวจสอบ requirements ผ่าน
+2026-03-25 15:17:23,281 [INFO] __main__ - ทดสอบการเชื่อมต่อ Supabase...
+2026-03-25 15:17:23,318 [INFO] database.db_connect - เชื่อมต่อ Supabase สำเร็จ
+2026-03-25 15:17:24,357 [INFO] database.db_connect - ทดสอบการเชื่อมต่อสำเร็จ
+2026-03-25 15:17:24,357 [INFO] __main__ - เริ่มต้น GUI...
+2026-03-25 15:18:17,575 [ERROR] database.user_model - ดึงข้อมูล user ล้มเหลว: {'code': 'PGRST116', 'details': 'The result contains 0 rows', 'hint': None, 'message': 'Cannot coerce the result to a single JSON object'}
+2026-03-25 15:18:17,575 [INFO] services.register_service - Starting image capture for NEEM
+2026-03-25 15:18:22,663 [INFO] services.register_service - Starting capture for 'NEEM' (SPACE to capture, ESC to cancel)
+2026-03-25 15:18:30,866 [INFO] services.register_service - Saved image: dataset\NEEM\NEEM_1.jpg
+2026-03-25 15:18:31,491 [INFO] services.register_service - Saved image: dataset\NEEM\NEEM_2.jpg
+2026-03-25 15:18:31,951 [INFO] services.register_service - Saved image: dataset\NEEM\NEEM_3.jpg
+2026-03-25 15:18:32,417 [INFO] services.register_service - Saved image: dataset\NEEM\NEEM_4.jpg
+2026-03-25 15:18:34,416 [INFO] services.register_service - Saved image: dataset\NEEM\NEEM_5.jpg
+2026-03-25 15:18:35,232 [INFO] core.encoding - Encode รูป dataset\NEEM\neem_1.jpg สำเร็จ
+2026-03-25 15:18:35,749 [INFO] core.encoding - Encode รูป dataset\NEEM\neem_2.jpg สำเร็จ
+2026-03-25 15:18:36,305 [INFO] core.encoding - Encode รูป dataset\NEEM\neem_3.jpg สำเร็จ
+2026-03-25 15:18:36,830 [INFO] core.encoding - Encode รูป dataset\NEEM\neem_4.jpg สำเร็จ
+2026-03-25 15:18:37,363 [INFO] core.encoding - Encode รูป dataset\NEEM\neem_5.jpg สำเร็จ
+2026-03-25 15:18:37,363 [INFO] core.encoding - Encode NEEM ได้ 5 รูป
+2026-03-25 15:18:37,635 [INFO] database.user_model - สร้าง user 'NEEM' สำเร็จ
+2026-03-25 15:18:37,635 [INFO] services.register_service - Successfully registered 'NEEM'
+2026-03-25 15:18:46,553 [INFO] services.login_service - Loading face data...
+2026-03-25 15:18:51,779 [INFO] services.login_service - Please blink 2 times to verify identity...
+2026-03-25 15:18:51,779 [INFO] core.blink_detection - รอการกระพริบตา 2 ครั้ง (timeout: 10s)
+2026-03-25 15:18:52,950 [INFO] core.blink_detection - โหลด shape predictor สำเร็จ
+2026-03-25 15:19:00,761 [INFO] core.blink_detection - ตรวจพบกระพริบตา #1 (EAR: 0.262)
+2026-03-25 15:19:01,804 [WARNING] core.blink_detection - Blink detection timeout
+2026-03-25 15:19:02,330 [INFO] database.log_model - Log saved: user=None, status=spoof_detected
+2026-03-25 15:19:10,972 [INFO] services.login_service - Loading face data...
+2026-03-25 15:19:16,216 [INFO] services.login_service - Please blink 2 times to verify identity...
+2026-03-25 15:19:16,216 [INFO] core.blink_detection - รอการกระพริบตา 2 ครั้ง (timeout: 10s)
+2026-03-25 15:19:22,686 [INFO] core.blink_detection - ตรวจพบกระพริบตา #1 (EAR: 0.292)
+2026-03-25 15:19:23,567 [INFO] core.blink_detection - ตรวจพบกระพริบตา #2 (EAR: 0.299)
+2026-03-25 15:19:23,717 [INFO] core.blink_detection - กระพริบตาครบ 2 ครั้ง ✓
+2026-03-25 15:19:23,717 [INFO] services.login_service - Anti-spoofing passed ✓ Recognizing face...
+2026-03-25 15:19:24,772 [INFO] services.login_service - Matching face...
+2026-03-25 15:19:24,776 [INFO] core.face_recognition_core - Face comparison: match=False, distance=0.5476
+2026-03-25 15:19:24,776 [INFO] core.face_recognition_core - Face comparison: match=False, distance=0.5549
+2026-03-25 15:19:24,776 [INFO] core.face_recognition_core - Face comparison: match=True, distance=0.4256
+2026-03-25 15:19:24,776 [INFO] core.face_recognition_core - Face comparison: match=True, distance=0.3693
+2026-03-25 15:19:25,178 [INFO] database.log_model - Log saved: user=NEEM, status=success
+2026-03-25 15:19:59,395 [INFO] services.login_service - Loading face data...
+2026-03-25 15:20:04,664 [INFO] services.login_service - Please blink 2 times to verify identity...
+2026-03-25 15:20:04,664 [INFO] core.blink_detection - รอการกระพริบตา 2 ครั้ง (timeout: 10s)
+2026-03-25 15:20:08,319 [INFO] core.blink_detection - ตรวจพบกระพริบตา #1 (EAR: 0.297)
+2026-03-25 15:20:14,826 [WARNING] core.blink_detection - Blink detection timeout
+2026-03-25 15:20:15,525 [INFO] database.log_model - Log saved: user=None, status=spoof_detected
+2026-03-25 15:24:48,007 [INFO] __main__ - ✅ ตรวจสอบ requirements ผ่าน
+2026-03-25 15:24:48,007 [INFO] __main__ - ทดสอบการเชื่อมต่อ Supabase...
+2026-03-25 15:24:48,039 [INFO] database.db_connect - เชื่อมต่อ Supabase สำเร็จ
+2026-03-25 15:24:48,841 [INFO] database.db_connect - ทดสอบการเชื่อมต่อสำเร็จ
+2026-03-25 15:24:48,841 [INFO] __main__ - เริ่มต้น GUI...
+2026-03-25 15:24:56,273 [INFO] services.login_service - Loading face data...
+2026-03-25 15:25:01,456 [INFO] services.login_service - Please blink 2 times to verify identity...
+2026-03-25 15:25:01,456 [INFO] core.blink_detection - Waiting for 2 blink(s) (timeout: 10s)
+2026-03-25 15:25:02,626 [INFO] core.blink_detection - Shape predictor loaded successfully
+2026-03-25 15:25:05,323 [INFO] core.blink_detection - Blink detected #1 (EAR: 0.251)
+2026-03-25 15:25:05,848 [INFO] core.blink_detection - Blink detected #2 (EAR: 0.251)
+2026-03-25 15:25:05,997 [INFO] core.blink_detection - Completed 2 blink(s) ✓
+2026-03-25 15:25:05,999 [INFO] services.login_service - Anti-spoofing passed ✓ Recognizing face...
+2026-03-25 15:25:07,074 [INFO] services.login_service - Matching face...
+2026-03-25 15:25:07,074 [INFO] core.face_recognition_core - Face comparison: match=False, distance=0.5808
+2026-03-25 15:25:07,074 [INFO] core.face_recognition_core - Face comparison: match=False, distance=0.6362
+2026-03-25 15:25:07,074 [INFO] core.face_recognition_core - Face comparison: match=True, distance=0.4664
+2026-03-25 15:25:07,077 [INFO] core.face_recognition_core - Face comparison: match=True, distance=0.2846
+2026-03-25 15:25:07,536 [INFO] database.log_model - Log saved: user=NEEM, status=success
+2026-03-25 15:25:53,510 [INFO] core.encoding - Encode รูป dataset\fluke\fluke_1.jpg สำเร็จ
+2026-03-25 15:25:54,022 [INFO] core.encoding - Encode รูป dataset\fluke\fluke_2.jpg สำเร็จ
+2026-03-25 15:25:54,518 [INFO] core.encoding - Encode รูป dataset\fluke\fluke_3.jpg สำเร็จ
+2026-03-25 15:25:55,031 [INFO] core.encoding - Encode รูป dataset\fluke\fluke_4.jpg สำเร็จ
+2026-03-25 15:25:55,534 [INFO] core.encoding - Encode รูป dataset\fluke\fluke_5.jpg สำเร็จ
+2026-03-25 15:25:55,534 [INFO] core.encoding - Encode fluke ได้ 5 รูป
+2026-03-25 15:25:55,693 [INFO] database.user_model - อัปเดต encoding ของ 'fluke' สำเร็จ
+2026-03-25 15:25:55,693 [INFO] services.train_service - Train 'fluke' สำเร็จ
+2026-03-25 15:25:56,355 [INFO] core.encoding - Encode รูป dataset\wine\wine_1.jpg สำเร็จ
+2026-03-25 15:25:56,856 [INFO] core.encoding - Encode รูป dataset\wine\wine_2.jpg สำเร็จ
+2026-03-25 15:25:57,353 [INFO] core.encoding - Encode รูป dataset\wine\wine_3.jpg สำเร็จ
+2026-03-25 15:25:57,847 [INFO] core.encoding - Encode รูป dataset\wine\wine_4.jpg สำเร็จ
+2026-03-25 15:25:58,338 [INFO] core.encoding - Encode รูป dataset\wine\wine_5.jpg สำเร็จ
+2026-03-25 15:25:58,338 [INFO] core.encoding - Encode wine ได้ 5 รูป
+2026-03-25 15:25:58,487 [INFO] database.user_model - อัปเดต encoding ของ 'wine' สำเร็จ
+2026-03-25 15:25:58,487 [INFO] services.train_service - Train 'wine' สำเร็จ
+2026-03-25 15:25:59,125 [INFO] core.encoding - Encode รูป dataset\few\few_1.jpg สำเร็จ
+2026-03-25 15:25:59,622 [INFO] core.encoding - Encode รูป dataset\few\few_2.jpg สำเร็จ
+2026-03-25 15:26:00,120 [INFO] core.encoding - Encode รูป dataset\few\few_3.jpg สำเร็จ
+2026-03-25 15:26:00,648 [INFO] core.encoding - Encode รูป dataset\few\few_4.jpg สำเร็จ
+2026-03-25 15:26:01,141 [INFO] core.encoding - Encode รูป dataset\few\few_5.jpg สำเร็จ
+2026-03-25 15:26:01,141 [INFO] core.encoding - Encode few ได้ 5 รูป
+2026-03-25 15:26:01,456 [INFO] database.user_model - อัปเดต encoding ของ 'few' สำเร็จ
+2026-03-25 15:26:01,456 [INFO] services.train_service - Train 'few' สำเร็จ
+2026-03-25 15:26:02,129 [INFO] core.encoding - Encode รูป dataset\NEEM\neem_1.jpg สำเร็จ
+2026-03-25 15:26:02,619 [INFO] core.encoding - Encode รูป dataset\NEEM\neem_2.jpg สำเร็จ
+2026-03-25 15:26:03,126 [INFO] core.encoding - Encode รูป dataset\NEEM\neem_3.jpg สำเร็จ
+2026-03-25 15:26:03,620 [INFO] core.encoding - Encode รูป dataset\NEEM\neem_4.jpg สำเร็จ
+2026-03-25 15:26:04,120 [INFO] core.encoding - Encode รูป dataset\NEEM\neem_5.jpg สำเร็จ
+2026-03-25 15:26:04,120 [INFO] core.encoding - Encode NEEM ได้ 5 รูป
+2026-03-25 15:26:04,305 [INFO] database.user_model - อัปเดต encoding ของ 'NEEM' สำเร็จ
+2026-03-25 15:26:04,305 [INFO] services.train_service - Train 'NEEM' สำเร็จ
+2026-03-25 15:26:04,305 [INFO] services.train_service - Train เสร็จสิ้น: 4/4 สำเร็จ
+2026-03-25 15:26:35,771 [INFO] core.encoding - Encode รูป dataset\fluke\fluke_1.jpg สำเร็จ
+2026-03-25 15:26:36,270 [INFO] core.encoding - Encode รูป dataset\fluke\fluke_2.jpg สำเร็จ
+2026-03-25 15:26:36,781 [INFO] core.encoding - Encode รูป dataset\fluke\fluke_3.jpg สำเร็จ
+2026-03-25 15:26:37,293 [INFO] core.encoding - Encode รูป dataset\fluke\fluke_4.jpg สำเร็จ
+2026-03-25 15:26:37,863 [INFO] core.encoding - Encode รูป dataset\fluke\fluke_5.jpg สำเร็จ
+2026-03-25 15:26:37,863 [INFO] core.encoding - Encode fluke ได้ 5 รูป
+2026-03-25 15:26:38,015 [INFO] database.user_model - อัปเดต encoding ของ 'fluke' สำเร็จ
+2026-03-25 15:26:38,015 [INFO] services.train_service - Train 'fluke' สำเร็จ
+2026-03-25 15:26:38,646 [INFO] core.encoding - Encode รูป dataset\few\few_1.jpg สำเร็จ
+2026-03-25 15:26:39,160 [INFO] core.encoding - Encode รูป dataset\few\few_2.jpg สำเร็จ
+2026-03-25 15:26:39,658 [INFO] core.encoding - Encode รูป dataset\few\few_3.jpg สำเร็จ
+2026-03-25 15:26:40,161 [INFO] core.encoding - Encode รูป dataset\few\few_4.jpg สำเร็จ
+2026-03-25 15:26:40,671 [INFO] core.encoding - Encode รูป dataset\few\few_5.jpg สำเร็จ
+2026-03-25 15:26:40,671 [INFO] core.encoding - Encode few ได้ 5 รูป
+2026-03-25 15:26:40,819 [INFO] database.user_model - อัปเดต encoding ของ 'few' สำเร็จ
+2026-03-25 15:26:40,819 [INFO] services.train_service - Train 'few' สำเร็จ
+2026-03-25 15:26:41,456 [INFO] core.encoding - Encode รูป dataset\wine\wine_1.jpg สำเร็จ
+2026-03-25 15:26:41,958 [INFO] core.encoding - Encode รูป dataset\wine\wine_2.jpg สำเร็จ
+2026-03-25 15:26:42,463 [INFO] core.encoding - Encode รูป dataset\wine\wine_3.jpg สำเร็จ
+2026-03-25 15:26:42,972 [INFO] core.encoding - Encode รูป dataset\wine\wine_4.jpg สำเร็จ
+2026-03-25 15:26:43,467 [INFO] core.encoding - Encode รูป dataset\wine\wine_5.jpg สำเร็จ
+2026-03-25 15:26:43,467 [INFO] core.encoding - Encode wine ได้ 5 รูป
+2026-03-25 15:26:43,633 [INFO] database.user_model - อัปเดต encoding ของ 'wine' สำเร็จ
+2026-03-25 15:26:43,633 [INFO] services.train_service - Train 'wine' สำเร็จ
+2026-03-25 15:26:44,276 [INFO] core.encoding - Encode รูป dataset\NEEM\neem_1.jpg สำเร็จ
+2026-03-25 15:26:44,767 [INFO] core.encoding - Encode รูป dataset\NEEM\neem_2.jpg สำเร็จ
+2026-03-25 15:26:45,266 [INFO] core.encoding - Encode รูป dataset\NEEM\neem_3.jpg สำเร็จ
+2026-03-25 15:26:45,768 [INFO] core.encoding - Encode รูป dataset\NEEM\neem_4.jpg สำเร็จ
+2026-03-25 15:26:46,266 [INFO] core.encoding - Encode รูป dataset\NEEM\neem_5.jpg สำเร็จ
+2026-03-25 15:26:46,266 [INFO] core.encoding - Encode NEEM ได้ 5 รูป
+2026-03-25 15:26:46,423 [INFO] database.user_model - อัปเดต encoding ของ 'NEEM' สำเร็จ
+2026-03-25 15:26:46,423 [INFO] services.train_service - Train 'NEEM' สำเร็จ
+2026-03-25 15:26:46,423 [INFO] services.train_service - Train เสร็จสิ้น: 4/4 สำเร็จ
+2026-03-25 15:28:54,794 [INFO] __main__ - ✅ ตรวจสอบ requirements ผ่าน
+2026-03-25 15:28:54,794 [INFO] __main__ - ทดสอบการเชื่อมต่อ Supabase...
+2026-03-25 15:28:54,825 [INFO] database.db_connect - เชื่อมต่อ Supabase สำเร็จ
+2026-03-25 15:28:55,711 [INFO] database.db_connect - ทดสอบการเชื่อมต่อสำเร็จ
+2026-03-25 15:28:55,711 [INFO] __main__ - เริ่มต้น GUI...
+2026-03-25 15:30:06,164 [INFO] __main__ - ✅ ตรวจสอบ requirements ผ่าน
+2026-03-25 15:30:06,164 [INFO] __main__ - ทดสอบการเชื่อมต่อ Supabase...
+2026-03-25 15:30:06,196 [INFO] database.db_connect - เชื่อมต่อ Supabase สำเร็จ
+2026-03-25 15:30:06,560 [INFO] database.db_connect - ทดสอบการเชื่อมต่อสำเร็จ
+2026-03-25 15:30:06,560 [INFO] __main__ - เริ่มต้น GUI...
+2026-03-25 15:38:01,786 [INFO] __main__ - ✅ ตรวจสอบ requirements ผ่าน
+2026-03-25 15:38:01,786 [INFO] __main__ - ทดสอบการเชื่อมต่อ Supabase...
+2026-03-25 15:38:01,816 [INFO] database.db_connect - เชื่อมต่อ Supabase สำเร็จ
+2026-03-25 15:38:02,744 [INFO] database.db_connect - ทดสอบการเชื่อมต่อสำเร็จ
+2026-03-25 15:38:02,744 [INFO] __main__ - เริ่มต้น GUI...
+2026-03-25 15:38:10,011 [INFO] services.login_service - Loading face data...
+2026-03-25 15:38:15,211 [INFO] services.login_service - Please blink 2 times to verify identity...
+2026-03-25 15:38:15,211 [INFO] core.blink_detection - รอการกระพริบตา 2 ครั้ง (timeout: 10s)
+2026-03-25 15:38:16,393 [INFO] core.blink_detection - โหลด shape predictor สำเร็จ
+2026-03-25 15:38:16,520 [INFO] core.blink_detection - ตรวจพบกระพริบตา #1 (EAR: 0.272)
+2026-03-25 15:38:16,857 [INFO] core.blink_detection - ตรวจพบกระพริบตา #2 (EAR: 0.305)
+2026-03-25 15:38:16,859 [INFO] core.blink_detection - กระพริบตาครบ 2 ครั้ง ✓
+2026-03-25 15:38:16,860 [INFO] services.login_service - Anti-spoofing passed ✓ Recognizing face...
+2026-03-25 15:38:17,931 [INFO] services.login_service - Matching face...
+2026-03-25 15:38:17,934 [INFO] core.face_recognition_core - Face comparison: match=False, distance=0.6580
+2026-03-25 15:38:17,934 [INFO] core.face_recognition_core - Face comparison: match=False, distance=0.5373
+2026-03-25 15:38:17,935 [INFO] core.face_recognition_core - Face comparison: match=False, distance=0.6750
+2026-03-25 15:38:17,935 [INFO] core.face_recognition_core - Face comparison: match=True, distance=0.4398
+2026-03-25 15:38:18,355 [INFO] database.log_model - Log saved: user=NEEM, status=success
+2026-03-25 15:41:14,765 [INFO] __main__ - ✅ ตรวจสอบ requirements ผ่าน
+2026-03-25 15:41:14,767 [INFO] __main__ - ทดสอบการเชื่อมต่อ Supabase...
+2026-03-25 15:41:14,797 [INFO] database.db_connect - เชื่อมต่อ Supabase สำเร็จ
+2026-03-25 15:41:15,680 [INFO] database.db_connect - ทดสอบการเชื่อมต่อสำเร็จ
+2026-03-25 15:41:15,680 [INFO] __main__ - เริ่มต้น GUI...
+2026-03-25 15:41:37,174 [INFO] services.login_service - Loading face data...
+2026-03-25 15:41:42,522 [INFO] services.login_service - Please blink 2 times to verify identity...
+2026-03-25 15:41:42,522 [INFO] core.blink_detection - รอการกระพริบตา 2 ครั้ง (timeout: 10s)
+2026-03-25 15:41:43,702 [INFO] core.blink_detection - โหลด shape predictor สำเร็จ
+2026-03-25 15:41:52,660 [WARNING] core.blink_detection - Blink detection timeout
+2026-03-25 15:41:53,214 [INFO] database.log_model - Log saved: user=None, status=spoof_detected
+2026-03-25 15:42:00,525 [INFO] services.login_service - Loading face data...
+2026-03-25 15:42:05,887 [INFO] services.login_service - Please blink 2 times to verify identity...
+2026-03-25 15:42:05,889 [INFO] core.blink_detection - รอการกระพริบตา 2 ครั้ง (timeout: 10s)
+2026-03-25 15:42:07,977 [INFO] core.blink_detection - ตรวจพบกระพริบตา #1 (EAR: 0.353)
+2026-03-25 15:42:08,872 [INFO] core.blink_detection - ตรวจพบกระพริบตา #2 (EAR: 0.316)
+2026-03-25 15:42:09,018 [INFO] core.blink_detection - กระพริบตาครบ 2 ครั้ง ✓
+2026-03-25 15:42:09,018 [INFO] services.login_service - Anti-spoofing passed ✓ Recognizing face...
+2026-03-25 15:42:10,076 [INFO] services.login_service - Matching face...
+2026-03-25 15:42:10,079 [INFO] core.face_recognition_core - Face comparison: match=False, distance=0.5883
+2026-03-25 15:42:10,079 [INFO] core.face_recognition_core - Face comparison: match=False, distance=0.5129
+2026-03-25 15:42:10,079 [INFO] core.face_recognition_core - Face comparison: match=False, distance=0.6156
+2026-03-25 15:42:10,079 [INFO] core.face_recognition_core - Face comparison: match=True, distance=0.4121
+2026-03-25 15:42:10,467 [INFO] database.log_model - Log saved: user=NEEM, status=success
+2026-03-25 15:45:42,763 [INFO] __main__ - ✅ ตรวจสอบ requirements ผ่าน
+2026-03-25 15:45:42,764 [INFO] __main__ - ทดสอบการเชื่อมต่อ Supabase...
+2026-03-25 15:45:42,794 [INFO] database.db_connect - เชื่อมต่อ Supabase สำเร็จ
+2026-03-25 15:45:43,586 [INFO] database.db_connect - ทดสอบการเชื่อมต่อสำเร็จ
+2026-03-25 15:45:43,586 [INFO] __main__ - เริ่มต้น GUI...
+2026-03-25 15:45:55,762 [INFO] services.login_service - Loading face data...
+2026-03-25 15:46:01,061 [INFO] services.login_service - Please blink 2 times to verify identity...
+2026-03-25 15:46:01,061 [INFO] core.blink_detection - Waiting for 2 blink(s) (timeout: 10s)
+2026-03-25 15:46:02,243 [INFO] core.blink_detection - Shape predictor loaded successfully
+2026-03-25 15:46:11,169 [WARNING] core.blink_detection - Blink detection timeout
+2026-03-25 15:46:11,703 [INFO] database.log_model - Log saved: user=None, status=spoof_detected
+2026-03-25 15:46:17,804 [INFO] services.login_service - Loading face data...
+2026-03-25 15:46:23,076 [INFO] services.login_service - Please blink 2 times to verify identity...
+2026-03-25 15:46:23,077 [INFO] core.blink_detection - Waiting for 2 blink(s) (timeout: 10s)
+2026-03-25 15:46:26,034 [INFO] core.blink_detection - Blink detected #1 (EAR: 0.259)
+2026-03-25 15:46:26,743 [INFO] core.blink_detection - Blink detected #2 (EAR: 0.349)
+2026-03-25 15:46:26,894 [INFO] core.blink_detection - Completed 2 blink(s) ✓
+2026-03-25 15:46:26,894 [INFO] services.login_service - Anti-spoofing passed ✓ Recognizing face...
+2026-03-25 15:46:27,957 [INFO] services.login_service - Matching face...
+2026-03-25 15:46:27,958 [INFO] core.face_recognition_core - Face comparison: match=False, distance=0.5335
+2026-03-25 15:46:27,958 [INFO] core.face_recognition_core - Face comparison: match=False, distance=0.5266
+2026-03-25 15:46:27,958 [INFO] core.face_recognition_core - Face comparison: match=True, distance=0.4946
+2026-03-25 15:46:27,958 [INFO] core.face_recognition_core - Face comparison: match=True, distance=0.4331
+2026-03-25 15:46:28,373 [INFO] database.log_model - Log saved: user=NEEM, status=success
+2026-03-25 15:46:34,570 [INFO] services.login_service - Loading face data...
+2026-03-25 15:46:39,808 [INFO] services.login_service - Please blink 2 times to verify identity...
+2026-03-25 15:46:39,809 [INFO] core.blink_detection - Waiting for 2 blink(s) (timeout: 10s)
+2026-03-25 15:46:40,645 [INFO] core.blink_detection - Blink detected #1 (EAR: 0.302)
+2026-03-25 15:46:44,346 [INFO] core.blink_detection - Blink detected #2 (EAR: 0.322)
+2026-03-25 15:46:44,495 [INFO] core.blink_detection - Completed 2 blink(s) ✓
+2026-03-25 15:46:44,495 [INFO] services.login_service - Anti-spoofing passed ✓ Recognizing face...
+2026-03-25 15:46:45,549 [INFO] services.login_service - Matching face...
+2026-03-25 15:46:45,551 [INFO] core.face_recognition_core - Face comparison: match=False, distance=0.6008
+2026-03-25 15:46:45,551 [INFO] core.face_recognition_core - Face comparison: match=False, distance=0.5109
+2026-03-25 15:46:45,551 [INFO] core.face_recognition_core - Face comparison: match=False, distance=0.5757
+2026-03-25 15:46:45,551 [INFO] core.face_recognition_core - Face comparison: match=True, distance=0.3868
+2026-03-25 15:46:45,963 [INFO] database.log_model - Log saved: user=NEEM, status=success
+2026-03-25 15:47:00,836 [ERROR] database.user_model - ดึงข้อมูล user ล้มเหลว: {'code': 'PGRST116', 'details': 'The result contains 0 rows', 'hint': None, 'message': 'Cannot coerce the result to a single JSON object'}
+2026-03-25 15:47:00,836 [INFO] services.register_service - Starting image capture for ...
+2026-03-25 15:47:05,882 [INFO] services.register_service - Starting capture for '...' (SPACE to capture, ESC to cancel)
+2026-03-25 15:47:10,768 [INFO] services.register_service - Image capture cancelled

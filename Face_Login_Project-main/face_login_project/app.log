@@ -1,0 +1,3 @@
+2026-03-24 15:31:43,772 [ERROR] __main__ - ขาด module: face_recognition, cv2, dlib, numpy, scipy, supabase, imutils
+2026-03-24 16:19:20,297 [ERROR] __main__ - ขาด module: face_recognition, cv2, dlib, numpy, scipy, supabase, imutils
+2026-03-24 16:35:55,912 [ERROR] __main__ - ขาด module: face_recognition, cv2, dlib, numpy, scipy, supabase, imutils
