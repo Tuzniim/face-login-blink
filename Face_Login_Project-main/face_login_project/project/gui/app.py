@@ -10,6 +10,7 @@ import logging
 import queue
 import time
 
+from analytics.accuracy_plot import generate_all_plots
 from services.login_service import login_with_face, LoginResult
 from services.register_service import register_user
 from services.train_service import train_all_users
@@ -61,7 +62,6 @@ class FaceLoginApp(tk.Tk):
 
         self._setup_fonts()
         self._build_ui()
-        self._start_clock()
         self._start_camera_preview()
         self.protocol("WM_DELETE_WINDOW", self._on_close)
 
@@ -139,7 +139,7 @@ class FaceLoginApp(tk.Tk):
         lf.pack(side="left", fill="y", padx=(12, 6), pady=12)
         lf.pack_propagate(False)
 
-        tk.Label(lf, text="// LIVE PREVIEW",
+        tk.Label(lf, text="LIVE PREVIEW",
                  font=self.font_label, bg=BG_DEEP, fg=ACCENT).pack(anchor="w", pady=(0, 6))
 
         cam_wrap = tk.Frame(lf, bg=BORDER_ACC, padx=1, pady=1)
@@ -234,7 +234,7 @@ class FaceLoginApp(tk.Tk):
         self._build_log_table(rf)
 
     def _build_result_box(self, parent):
-        tk.Label(parent, text="// DETECTION RESULT",
+        tk.Label(parent, text="DETECTION RESULT",
                  font=self.font_label, bg=BG_PANEL, fg=ACCENT).pack(anchor="w", pady=(0, 4))
 
         rb = tk.Frame(parent, bg=BG_CARD,
@@ -523,15 +523,15 @@ class FaceLoginApp(tk.Tk):
         reg_win.resizable(False, False)
         reg_win.grab_set()
 
-        tk.Label(reg_win, text="// REGISTER NEW USER",
-                 font=("Courier New", 11, "bold"),
+        tk.Label(reg_win, text="REGISTER NEW USER",
+                 font=("Segoe UI", 11, "bold"),
                  bg=BG_DEEP, fg=ACCENT).pack(pady=(18, 12))
 
         for label, attr in [("USERNAME", "uname"), ("FULL NAME", "fname")]:
             row = tk.Frame(reg_win, bg=BG_DEEP)
             row.pack(fill="x", padx=30, pady=4)
-            tk.Label(row, text=label, font=self.font_label,
-                     bg=BG_DEEP, fg=TEXT_DIM, anchor="w").pack(fill="x")
+            tk.Label(row, text=label, font=("Segoe UI", 9, "bold"),
+                     bg=BG_DEEP, fg=ACCENT, anchor="w").pack(fill="x")
             e = tk.Entry(row, font=self.font_result,
                          bg=BG_METRIC, fg=TEXT_PRI,
                          insertbackground=ACCENT,
@@ -603,6 +603,13 @@ class FaceLoginApp(tk.Tk):
             f"SUCCESS RATE : {stats['success_rate']:.1f}%"
         )
         messagebox.showinfo("Statistics", msg)
+        def run():
+         self._update_status("Generating analytics graphs...")
+         generate_all_plots()   # ← ตัวหลัก
+         self.after(0, self._update_status, "Analytics ready!")
+         self.after(0, messagebox.showinfo, "Done", "Graphs saved in analytics/output")
+
+        threading.Thread(target=run, daemon=True).start()
 
     def _refresh_logs(self):
         for item in self.log_tree.get_children():
